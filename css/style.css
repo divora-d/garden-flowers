@@ -121,6 +121,7 @@ body {
     width: 100%;
     height: 100%;
     object-fit: contain;
+    border-radius: 4px;
 }
 
 .flower-card h2 {
@@ -141,13 +142,13 @@ body {
 
 
 .category-red {
-    background-color: #ffe5e5;
+    background-color: #fa8fa1;
 }
 
 .category-gold {
-    background-color: #fff4cc;
+    background-color: #e7a858;
 }
 
 .category-purple {
-    background-color: #eee5ff;
+    background-color: #bca3dd;
 }
