@@ -44,6 +44,8 @@ function renderFlowers() {
         return matchesCategory && matchesSearch;
     });
 
+    .sort((a, b) => a.name.localeCompare(b.name, "ru"));
+
     flowersContainer.innerHTML = "";
 
     if (filteredFlowers.length === 0) {
