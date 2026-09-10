@@ -172,6 +172,51 @@
   {
     "name": "Жемчужная магнолия",
     "image": "images/zhemchuzhnaya-magnoliya.webp",
-    "category": "red"
+    "category": "gold"
+  },
+  {
+    "name": "Золотистый османтус",
+    "category": "purple",
+    "image": "images/zolotistyi-osmantus.webp"
+  },
+  {
+    "name": "Серебристый османтус",
+    "category": "purple",
+    "image": "images/serebristyi-osmantus.webp"
+  },
+  {
+    "name": "Фиолетовая магнолия",
+    "category": "purple",
+    "image": "images/fioletovaya-magnoliya.webp"
+  },
+  {
+    "name": "Полуночная лагерстрёмия",
+    "category": "purple",
+    "image": "images/polunochnaya-lagerstremiya.webp"
+  },
+  {
+    "name": "Синее пламя",
+    "category": "gold",
+    "image": "images/sinee-plamya.webp"
+  },
+  {
+    "name": "Ночной аромат",
+    "category": "gold",
+    "image": "images/nochnoy-aromat.webp"
+  },
+  {
+    "name": "Аромат опавших лепестков",
+    "category": "gold",
+    "image": "images/aromat-opavshih-lepestkov.webp"
+  },
+  {
+    "name": "Снежный лотос в тумане",
+    "category": "gold",
+    "image": "images/snezhnyi-lotos-v-tumane.webp"
+  },
+  {
+    "name": "Сад ночных грёз",
+    "category": "red",
+    "image": "images/sad-nochnyh-grez.webp"
   }
 ]
