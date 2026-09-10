@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Моя садовая сказка</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <main class="app">
+
+        <header class="header">
+            <h1>Моя садовая сказка</h1>
+        </header>
+
+        <section class="controls">
+
+            <div class="search">
+                <input
+                    type="search"
+                    id="search"
+                    placeholder="Найти цветок..."
+                >
+            </div>
+
+            <div class="filters">
+                <button
+                    class="filter-btn active"
+                    data-category="all"
+                    type="button"
+                >
+                    Все
+                </button>
+
+                <button
+                    class="filter-btn"
+                    data-category="red"
+                    type="button"
+                >
+                    Красные
+                </button>
+
+                <button
+                    class="filter-btn"
+                    data-category="gold"
+                    type="button"
+                >
+                    Золотые
+                </button>
+
+                <button
+                    class="filter-btn"
+                    data-category="purple"
+                    type="button"
+                >
+                    Фиолетовые
+                </button>
+            </div>
+
+        </section>
+
+        <section class="flowers-section">
+            <div id="flowers-container" class="flowers-container">
+
+                <!-- Временные карточки для проверки вёрстки -->
+
+                <article class="flower-card category-red">
+                    <div class="flower-image">
+                        <span>IMAGE</span>
+                    </div>
+                    <h2>Звезды в лепестках</h2>
+                </article>
+
+                <article class="flower-card category-gold">
+                    <div class="flower-image">
+                        <span>IMAGE</span>
+                    </div>
+                    <h2>Чернильная сосна</h2>
+                </article>
+
+                <article class="flower-card category-purple">
+                    <div class="flower-image">
+                        <span>IMAGE</span>
+                    </div>
+                    <h2>Алая немезия</h2>
+                </article>
+
+                <article class="flower-card category-purple">
+                    <div class="flower-image">
+                        <span>IMAGE</span>
+                    </div>
+                    <h2>Медово-желтая глоксиния</h2>
+                </article>
+
+            </div>
+        </section>
+
+    </main>
+
+</body>
+</html>

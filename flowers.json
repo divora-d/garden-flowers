@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Алая немезия",
+    "image": "images/alaya-nemesia.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Алый химонант",
+    "image": "images/alyi-himonant.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Аметистовая фуксия",
+    "image": "images/ametistovaya-fuksiya.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Белый клематис",
+    "image": "images/belyi-klematis.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Брунфельсия",
+    "image": "images/brunfelsiya.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Вербена оранжевая",
+    "image": "images/verbena-oranzhevaya.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Вифлеемская звезда",
+    "image": "images/vifleemskaya-zvezda.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Вишневый ондициум",
+    "image": "images/vishnevyi-onditsium.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Голубая петуния",
+    "image": "images/golubaya-petuniya.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Голубой меконопсис",
+    "image": "images/goluboi-mekonopsis.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Дурман",
+    "image": "images/durman.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Желтая скабиоза",
+    "image": "images/zheltaya-skabioza.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Звезды в лепестках",
+    "image": "images/zvezdy-v-lepestkah.webp",
+    "category": "red"
+  },
+  {
+    "name": "Изумрудный лилейник",
+    "image": "images/izumrudnyi-lileinik.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Красный мак",
+    "image": "images/krasnyi-mak.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Лазурная энотера",
+    "image": "images/lazurnaya-enotera.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Лазурный корал",
+    "image": "images/lazurnyi-koral.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Ликорис красный",
+    "image": "images/likoris-krasnyi.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Лук исполинский",
+    "image": "images/luk-ispolinskii.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Медово-желтая глоксиния",
+    "image": "images/medovo-zheltaya-gloksiniya.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Огненная орхидея",
+    "image": "images/ognennaya-orhideya.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Оранжевый мак",
+    "image": "images/oranzhevyi-mak.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Падуб мутовчатый",
+    "image": "images/padub-mutovchatyi.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Роза Шампань",
+    "image": "images/roza-shampan.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Розовая энотера",
+    "image": "images/rozovaya-enotera.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Розовый гибискус",
+    "image": "images/rozovyi-gibiskus.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Розовый спатифилум",
+    "image": "images/rozovyi-spatifillum.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Сиреневый мак",
+    "image": "images/sirenevyi-mak.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Тушь поднебесной",
+    "image": "images/tush-podnebesnoi.webp",
+    "category": "red"
+  },
+  {
+    "name": "Фиолетовая эйхорния",
+    "image": "images/fioletovaya-eihorniya.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Хлопковый мишка",
+    "image": "images/hlopkovyi-mishka.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Цикас лазурный",
+    "image": "images/tsikas-lazurnyi.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Чернильная сосна",
+    "image": "images/chernilnaya-sosna.webp",
+    "category": "gold"
+  },
+  {
+    "name": "Белая анемона",
+    "image": "images/belaya-anemona.webp",
+    "category": "purple"
+  },
+  {
+    "name": "Жемчужная магнолия",
+    "image": "images/zhemchuzhnaya-magnoliya.webp",
+    "category": "red"
+  }
+]
