@@ -33,18 +33,18 @@ async function loadFlowers() {
 function renderFlowers() {
     const searchQuery = searchInput.value.trim().toLowerCase();
 
-    const filteredFlowers = flowers.filter((flower) => {
-        const matchesCategory =
-            currentCategory === "all" ||
-            flower.category === currentCategory;
+    const filteredFlowers = flowers
+        .filter((flower) => {
+            const matchesCategory =
+                currentCategory === "all" ||
+                flower.category === currentCategory;
 
-        const matchesSearch =
-            flower.name.toLowerCase().includes(searchQuery);
+            const matchesSearch =
+                flower.name.toLowerCase().includes(searchQuery);
 
-        return matchesCategory && matchesSearch;
-    })
-
-    .sort((a, b) => a.name.localeCompare(b.name, "ru"));
+            return matchesCategory && matchesSearch;
+        })
+        .sort((a, b) => a.name.localeCompare(b.name, "ru"));
 
     flowersContainer.innerHTML = "";
 
@@ -79,9 +79,7 @@ function renderFlowers() {
 }
 
 
-searchInput.addEventListener("input", () => {
-    renderFlowers();
-});
+searchInput.addEventListener("input", renderFlowers);
 
 
 filterButtons.forEach((button) => {
