@@ -42,7 +42,7 @@ function renderFlowers() {
             flower.name.toLowerCase().includes(searchQuery);
 
         return matchesCategory && matchesSearch;
-    });
+    })
 
     .sort((a, b) => a.name.localeCompare(b.name, "ru"));
 
