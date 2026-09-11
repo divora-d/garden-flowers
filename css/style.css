@@ -180,13 +180,129 @@ body {
     }
 
     .flowers-container {
-        grid-template-columns: repeat(auto-fill, 160px);
+        grid-template-columns: repeat(auto-fill, 180px);
         gap: 12px;
     }
 }
 
 
 @media (max-width: 480px) {
+
+    .app {
+        padding: 10px;
+    }
+
+    .header h1 {
+        font-size: 22px;
+    }
+
+    .search input {
+        padding: 10px 12px;
+        font-size: 15px;
+    }
+
+    .filters {
+        gap: 6px;
+    }
+
+    .filter-btn {
+        padding: 8px 12px;
+        font-size: 14px;
+    }
+
+    .flowers-container {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+        padding: 3px;
+    }
+
+    .flower-card {
+        width: 100%;
+        height: auto;
+        min-height: 205px;
+        padding: 8px;
+    }
+
+    .flower-image {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 1;
+    }
+
+    .flower-card h2 {
+        width: 100%;
+        height: auto;
+        min-height: 38px;
+        margin-top: 8px;
+        font-size: 14px;
+    }
+
+    .flower-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
+}
+
+@media (max-width: 375px) {
+
+    .app {
+        padding: 10px;
+    }
+
+    .header h1 {
+        font-size: 22px;
+    }
+
+    .search input {
+        padding: 10px 12px;
+        font-size: 15px;
+    }
+
+    .filters {
+        gap: 6px;
+    }
+
+    .filter-btn {
+        padding: 8px 12px;
+        font-size: 14px;
+    }
+
+    .flowers-container {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+        padding: 3px;
+    }
+
+    .flower-card {
+        width: 100%;
+        height: auto;
+        min-height: 205px;
+        padding: 8px;
+    }
+
+    .flower-image {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 1;
+    }
+
+    .flower-card h2 {
+        width: 100%;
+        height: auto;
+        min-height: 38px;
+        margin-top: 8px;
+        font-size: 14px;
+    }
+
+    .flower-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
+}
+
+@media (max-width: 320px) {
 
     .app {
         padding: 10px;
@@ -219,7 +335,7 @@ body {
     .flower-card {
         width: 100%;
         height: auto;
-        min-height: 205px;
+        min-height: 190px;
         padding: 8px;
     }
 
