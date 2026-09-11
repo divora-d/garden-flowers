@@ -152,3 +152,94 @@ body {
 .category-purple {
     background-color: #bca3dd80;
 }
+
+/* =========================
+   Adaptive layout
+   ========================= */
+
+@media (max-width: 768px) {
+
+    .app {
+        padding: 15px;
+    }
+
+    .header {
+        margin-bottom: 15px;
+    }
+
+    .header h1 {
+        font-size: 26px;
+    }
+
+    .controls {
+        margin-bottom: 15px;
+    }
+
+    .search {
+        max-width: none;
+    }
+
+    .flowers-container {
+        grid-template-columns: repeat(auto-fill, 160px);
+        gap: 12px;
+    }
+}
+
+
+@media (max-width: 480px) {
+
+    .app {
+        padding: 10px;
+    }
+
+    .header h1 {
+        font-size: 22px;
+    }
+
+    .search input {
+        padding: 10px 12px;
+        font-size: 15px;
+    }
+
+    .filters {
+        gap: 6px;
+    }
+
+    .filter-btn {
+        padding: 8px 12px;
+        font-size: 14px;
+    }
+
+    .flowers-container {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+        padding: 3px;
+    }
+
+    .flower-card {
+        width: 100%;
+        height: auto;
+        min-height: 205px;
+        padding: 8px;
+    }
+
+    .flower-image {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 1;
+    }
+
+    .flower-card h2 {
+        width: 100%;
+        height: auto;
+        min-height: 38px;
+        margin-top: 8px;
+        font-size: 14px;
+    }
+
+    .flower-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
+}
