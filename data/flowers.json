@@ -218,5 +218,175 @@
     "name": "Сад ночных грёз",
     "category": "red",
     "image": "images/sad-nochnyh-grez.webp"
+  },
+  {
+    "name": "Белая левизия",
+    "category": "purple",
+    "image": "images/belaya-leviziya.webp"
+  },
+  {
+    "name": "Облачно-белый клеродендрум",
+    "category": "purple",
+    "image": "images/oblachno-belyi-klerodendrum.webp"
+  },
+  {
+    "name": "Ароматная клетка",
+    "category": "gold",
+    "image": "images/aromatnaya-kletka.webp"
+  },
+  {
+    "name": "Фиолетовая китайская гвоздика",
+    "category": "purple",
+    "image": "images/fioletovaya-kitaiskaya-gvozdika.webp"
+  },
+  {
+    "name": "Зеленый цимбидиум",
+    "category": "purple",
+    "image": "images/zelenyi-tsimbidium.webp"
+  },
+  {
+    "name": "Белый офиопогон",
+    "category": "purple",
+    "image": "images/belyi-ofiopogon.webp"
+  },
+  {
+    "name": "Фиолетовая космея",
+    "category": "purple",
+    "image": "images/fioletovaya-kosmeye.webp"
+  },
+  {
+    "name": "Желтая магнолия",
+    "category": "purple",
+    "image": "images/zheltaya-magnoliya.webp"
+  },
+  {
+    "name": "Танец лепестков",
+    "category": "gold",
+    "image": "images/tanets-lepestkov.webp"
+  },
+  {
+    "name": "Желтый химонант",
+    "category": "gold",
+    "image": "images/zheltyi-himonant.webp"
+  },
+  {
+    "name": "Лазурный пион Мудань",
+    "category": "gold",
+    "image": "images/lazurnyi-pion-mudan.webp"
+  },
+  {
+    "name": "Абрикосовый ирис",
+    "category": "purple",
+    "image": "images/abrikosovyi-iris.webp"
+  },
+  {
+    "name": "Розовый химонант",
+    "category": "gold",
+    "image": "images/rozovyi-himonant.webp"
+  },
+  {
+    "name": "Пурпурный ирис",
+    "category": "purple",
+    "image": "images/purpurnyi-iris.webp"
+  },
+  {
+    "name": "Лед. танец роз и бабочек",
+    "category": "gold",
+    "image": "images/led-tanets-roz-i-babochek.webp"
+  },
+  {
+    "name": "Роз. танец роз и бабочек",
+    "category": "gold",
+    "image": "images/roz-tanets-roz-i-babochek.webp"
+  },
+  {
+    "name": "Белое чудо",
+    "category": "gold",
+    "image": "images/beloe-chudo.webp"
+  },
+  {
+    "name": "Закатная фуксия",
+    "category": "purple",
+    "image": "images/zakatnaya-fuksiya.webp"
+  },
+  {
+    "name": "Персиковая рябь",
+    "category": "gold",
+    "image": "images/persikovaya-ryab.webp"
+  },
+  {
+    "name": "Голубые волны",
+    "category": "gold",
+    "image": "images/golubye-volny.webp"
+  },
+  {
+    "name": "Оранжевый амараллис",
+    "category": "purple",
+    "image": "images/oranzhevyi-amarallis.webp"
+  },
+  {
+    "name": "Пламенный амараллис",
+    "category": "purple",
+    "image": "images/plamennyi-amarallis.webp"
+  },
+  {
+    "name": "Белая роза Бэнкс",
+    "category": "purple",
+    "image": "images/belaya-roza-benks.webp"
+  },
+  {
+    "name": "Заревая куркума",
+    "category": "purple",
+    "image": "images/zarevaya-kurkuma.webp"
+  },
+  {
+    "name": "Фиолет. хризантема-пион",
+    "category": "gold",
+    "image": "images/fiolet-hrizantema-pion.webp"
+  },
+  {
+    "name": "Фарфоровая хризантема-пион",
+    "category": "gold",
+    "image": "images/farforovaya-hrizantema-pion.webp"
+  },
+  {
+    "name": "Оранжевая хризантема-пион",
+    "category": "gold",
+    "image": "images/oranzhevaya-hrizantema-pion.webp"
+  },
+  {
+    "name": "Розовый пион Шаояо",
+    "category": "purple",
+    "image": "images/rozovyi-pion-shaoyao.webp"
+  },
+  {
+    "name": "Сумеречная аквилегия",
+    "category": "purple",
+    "image": "images/sumerechnaya-akvilegiya.webp"
+  },
+  {
+    "name": "Цветущие звезды",
+    "category": "purple",
+    "image": "images/tsvetushchie-zvezdy.webp"
+  },
+  {
+    "name": "Розовое каланхоэ",
+    "category": "purple",
+    "image": "images/rozovoe-kalanhoe.webp"
+  },
+  {
+    "name": "Аромат магнолии",
+    "category": "gold",
+    "image": "images/aromat-magnolii.webp"
+  },
+  {
+    "name": "Желтый меконопсис",
+    "category": "purple",
+    "image": "images/zheltyi-mekonopsis.webp"
+  },
+  {
+    "name": "Розовый дельфиниум",
+    "category": "purple",
+    "image": "images/rozovyi-delfinium.webp"
   }
 ]
