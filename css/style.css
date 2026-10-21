@@ -392,13 +392,13 @@ body {
     }
 
     .flowers-container {
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(2, 1fr);
         gap: 10px;
         padding: 3px;
     }
 
     .flower-card {
-        width: 110px;
+        width: 130px;
         height: auto;
         min-height: 220px;
         padding: 8px;
