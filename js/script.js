@@ -7,10 +7,27 @@ const flowerModal = document.querySelector("#flower-modal");
 const modalTitle = document.querySelector("#modal-title");
 const modalPlayers = document.querySelector("#modal-players");
 const closeModalButton = document.querySelector("#close-modal");
+const resetButton = document.querySelector("#reset-filters");
 
 let flowers = [];
 let currentCategory = "all";
 
+resetButton.addEventListener("click", () => {
+    searchInput.value = "";
+    playerFilter.value = "";
+    minPointsInput.value = "";
+
+    currentCategory = "all";
+
+    filterButtons.forEach((button) => {
+        button.classList.toggle(
+            "active",
+            button.dataset.category === "all"
+        );
+    });
+
+    renderFlowers();
+});
 
 async function loadFlowers() {
     try {
@@ -165,6 +182,9 @@ function renderFlowers() {
         const points = document.createElement("p");
         points.classList.add("flower-points");
 
+        const pointsBadge = document.createElement("div");
+        pointsBadge.classList.add("flower-points-badge");
+
         if (
             typeof flower.points === "number" &&
             typeof flower.upgradedPoints === "number"
@@ -175,10 +195,12 @@ function renderFlowers() {
             points.textContent = "Баллы не указаны";
         }
 
+        pointsBadge.appendChild(points);
+
         imageContainer.appendChild(image);
         card.appendChild(imageContainer);
         card.appendChild(title);
-        card.appendChild(points);
+        card.appendChild(pointsBadge);
 
         flowersContainer.appendChild(card);
     });
