@@ -324,8 +324,8 @@
     "category": "gold",
     "image": "images/nochnoy-aromat.webp",
     "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
+    "points": 25,
+    "upgradedPoints": 50
   },
   {
     "name": "Аромат опавших лепестков",
