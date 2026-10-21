@@ -398,7 +398,7 @@ body {
     }
 
     .flower-card {
-        width: 100%;
+        width: 126px;
         height: auto;
         min-height: 220px;
         padding: 8px;
@@ -498,7 +498,7 @@ body {
     }
 
     .flower-card {
-        width: 100%;
+        width: 165px;
         height: auto;
         min-height: 250px;
         padding: 8px;
@@ -565,9 +565,9 @@ body {
     }
 
     .flower-card {
-        width: 100%;
+        width: 140px;
         height: auto;
-        min-height: 23 0px;
+        min-height: 230px;
         padding: 8px;
     }
 
