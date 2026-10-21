@@ -153,6 +153,37 @@ body {
     background-color: #bca3dd80;
 }
 
+.extra-filters {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 16px;
+}
+
+.extra-filters label {
+    font-size: 14px;
+}
+
+.extra-filters select,
+.extra-filters input {
+    padding: 8px 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font: inherit;
+}
+
+#min-points {
+    width: 140px;
+}
+
+.flower-points {
+    margin: 8px 0 0;
+    font-size: 14px;
+    text-align: center;
+}
+
 /* =========================
    Adaptive layout
    ========================= */
