@@ -388,5 +388,55 @@
     "name": "Розовый дельфиниум",
     "category": "purple",
     "image": "images/rozovyi-delfinium.webp"
+  },
+  {
+    "name": "Сучжоуский дождь",
+    "category": "gold",
+    "image": "images/suzhouskii-dozhd.webp"
+  },
+  {
+    "name": "Цветы, дарящие весну",
+    "category": "gold",
+    "image": "images/tsvety-daryashchie-vesnu.webp"
+  },
+  {
+    "name": "Лунная клетка",
+    "category": "gold",
+    "image": "images/lunnaya-kletka.webp"
+  },
+  {
+      "name": "Жёлтый антирринум",
+      "category": "purple",
+      "image": "images/zheltyi-antirr inum.webp"
+  },
+  {
+    "name": "Цветок памяти",
+    "category": "red",
+    "image": "images/tsvetok-pamyati.webp"
+  },
+  {
+    "name": "Пион \"Розовый кварц\"",
+    "category": "gold",
+    "image": "images/pion-rozovyi-kvarts.webp"
+  },
+  {
+    "name": "Розовый лилейник",
+    "category": "purple",
+    "image": "images/rozovyi-lileinik.webp"
+  },
+  {
+    "name": "Роз. гибискус в ларце",
+    "category": "gold",
+    "image": "images/roz-gibiskus-v-lartse.webp"
+  },
+  {
+    "name": "Цветочное свидание",
+    "category": "gold",
+    "image": "images/tsvetochnoe-svidanie.webp"
+  },
+  {
+    "name": "Цветочные пирожные",
+    "category": "gold",
+    "image": "images/tsvetochnye-pirozhnye.webp"
   }
 ]
