@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -61,6 +62,24 @@
                 </button>
             </div>
 
+            <div class="extra-filters">
+
+                <label for="player-filter">Игрок:</label>
+                <select id="player-filter">
+                    <option value="">Все игроки</option>
+                </select>
+
+                <label for="min-points">Минимум баллов до улучшения:</label>
+                <input
+                    type="number"
+                    id="min-points"
+                    min="0"
+                    step="1"
+                    placeholder="Например, 20"
+                >
+
+            </div>
+
         </section>
 
         <section class="flowers-section">
@@ -73,3 +92,4 @@
 
 </body>
 </html>
+```
