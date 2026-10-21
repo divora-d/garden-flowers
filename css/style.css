@@ -93,7 +93,7 @@ body {
 
 .flower-card {
     width: 180px;
-    height: 260px;
+    height: 280px;
 
     padding: 10px;
 
@@ -294,12 +294,13 @@ body {
 .reset-btn:hover {
     background: #f0e5ed;
 }
+
 /* =========================
    Adaptive layout
    ========================= */
 
+/* Планшеты и небольшие экраны */
 @media (max-width: 768px) {
-
     .app {
         padding: 15px;
     }
@@ -320,16 +321,35 @@ body {
         max-width: none;
     }
 
+    /* Поля фильтрации */
+    .extra-filters {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+
+    .extra-filters select,
+    .extra-filters input {
+        max-width: 100%;
+        min-width: 0;
+    }
+
+    .reset-btn {
+        max-width: 100%;
+    }
+
     .flowers-container {
-        grid-template-columns: repeat(auto-fill, 180px);
+        grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
         gap: 12px;
     }
+
     .flower-card {
         width: 100%;
         height: auto;
-        min-height: 260px;
+        min-height: 0;
         padding: 8px;
     }
+
     .flower-modal {
         width: auto;
         max-width: none;
@@ -340,8 +360,8 @@ body {
 }
 
 
+/* Телефоны */
 @media (max-width: 480px) {
-
     .app {
         padding: 10px;
     }
@@ -351,11 +371,15 @@ body {
     }
 
     .search input {
+        box-sizing: border-box;
+        width: 100%;
         padding: 10px 12px;
         font-size: 15px;
     }
 
     .filters {
+        display: flex;
+        flex-wrap: wrap;
         gap: 6px;
     }
 
@@ -364,17 +388,37 @@ body {
         font-size: 14px;
     }
 
+    /* Фильтры располагаются друг под другом */
+    .extra-filters {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 8px;
+    }
+
+    .extra-filters select,
+    .extra-filters input {
+        box-sizing: border-box;
+        width: 100%;
+        min-height: 40px;
+        font-size: 14px;
+    }
+
+    .reset-btn {
+        width: 100%;
+        margin-top: 10px;
+        padding: 10px 12px;
+    }
+
+    /* На обычных телефонах показываем 3 карточки в ряд */
     .flowers-container {
-        grid-template-columns: repeat(3, 1fr);
-        gap: 10px;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 8px;
         padding: 3px;
     }
 
     .flower-card {
-        width: 100%;
-        height: auto;
-        min-height: 220px;
-        padding: 8px;
+        min-width: 0;
+        padding: 6px;
     }
 
     .flower-image {
@@ -383,19 +427,32 @@ body {
         aspect-ratio: 1;
     }
 
-    .flower-card h2 {
-        width: 100%;
-        height: auto;
-        min-height: 38px;
-        margin-top: 8px;
-        font-size: 14px;
-    }
-
     .flower-image img {
         width: 100%;
         height: 100%;
         object-fit: contain;
     }
+
+    .flower-card h2 {
+        width: 100%;
+        height: auto;
+        min-height: 38px;
+        margin-top: 8px;
+        font-size: 13px;
+        overflow-wrap: anywhere;
+    }
+
+    .flower-points-badge {
+        box-sizing: border-box;
+        max-width: 100%;
+        padding: 5px 7px;
+    }
+
+    .flower-points {
+        font-size: 11px;
+        overflow-wrap: anywhere;
+    }
+
     .flower-modal {
         width: auto;
         max-width: none;
@@ -405,134 +462,28 @@ body {
     }
 }
 
+
+/* Очень узкие телефоны */
 @media (max-width: 375px) {
-
-    .app {
-        padding: 10px;
-    }
-
     .header h1 {
-        font-size: 22px;
+        font-size: 20px;
     }
 
-    .search input {
-        padding: 10px 12px;
-        font-size: 15px;
-    }
-
-    .filters {
-        gap: 6px;
-    }
-
-    .filter-btn {
-        padding: 8px 12px;
-        font-size: 14px;
-    }
-
+    /* Две карточки в ряд, чтобы названия и баллы не слипались */
     .flowers-container {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(2, minmax(0, 1fr));
         gap: 10px;
-        padding: 3px;
     }
 
     .flower-card {
-        width: 100%;
-        height: auto;
-        min-height: 250px;
         padding: 8px;
     }
 
-    .flower-image {
-        width: 100%;
-        height: auto;
-        aspect-ratio: 1;
-    }
-
     .flower-card h2 {
-        width: 100%;
-        height: auto;
-        min-height: 38px;
-        margin-top: 8px;
         font-size: 14px;
     }
 
-    .flower-image img {
-        width: 100%;
-        height: 100%;
-        object-fit: contain;
-    }
-    
-    .flower-modal {
-        width: auto;
-        max-width: none;
-        max-height: 75vh;
-        margin: auto 16px;
-        padding: 18px;
-    }
-}
-
-@media (max-width: 320px) {
-
-    .app {
-        padding: 10px;
-    }
-
-    .header h1 {
-        font-size: 22px;
-    }
-
-    .search input {
-        padding: 10px 12px;
-        font-size: 15px;
-    }
-
-    .filters {
-        gap: 6px;
-    }
-
-    .filter-btn {
-        padding: 8px 12px;
-        font-size: 14px;
-    }
-
-    .flowers-container {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 10px;
-        padding: 3px;
-    }
-
-    .flower-card {
-        width: 100%;
-        height: auto;
-        min-height: 220px;
-        padding: 8px;
-    }
-
-    .flower-image {
-        width: 100%;
-        height: auto;
-        aspect-ratio: 1;
-    }
-
-    .flower-card h2 {
-        width: 100%;
-        height: auto;
-        min-height: 38px;
-        margin-top: 8px;
-        font-size: 14px;
-    }
-
-    .flower-image img {
-        width: 100%;
-        height: 100%;
-        object-fit: contain;
-    }
-
-    .flower-modal {
-        width: auto;
-        max-width: none;
-        max-height: 75vh;
-        margin: auto 16px;
-        padding: 18px;
+    .flower-points {
+        font-size: 12px;
     }
 }
