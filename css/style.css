@@ -290,7 +290,12 @@ body {
         grid-template-columns: repeat(auto-fill, 180px);
         gap: 12px;
     }
-
+    .flower-card {
+        width: 100%;
+        height: auto;
+        min-height: 260px;
+        padding: 8px;
+    }
     .flower-modal {
         width: auto;
         max-width: none;
@@ -399,7 +404,7 @@ body {
     .flower-card {
         width: 100%;
         height: auto;
-        min-height: 220px;
+        min-height: 250px;
         padding: 8px;
     }
 
