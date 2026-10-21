@@ -1,6 +1,8 @@
 const flowersContainer = document.querySelector("#flowers-container");
 const searchInput = document.querySelector("#search");
 const filterButtons = document.querySelectorAll(".filter-btn");
+const playerFilter = document.querySelector("#player-filter");
+const minPointsInput = document.querySelector("#min-points");
 
 let flowers = [];
 let currentCategory = "all";
@@ -16,6 +18,7 @@ async function loadFlowers() {
 
         flowers = await response.json();
 
+        populatePlayerFilter();
         renderFlowers();
 
     } catch (error) {
@@ -30,8 +33,31 @@ async function loadFlowers() {
 }
 
 
+function populatePlayerFilter() {
+    const players = [
+        ...new Set(
+            flowers.flatMap((flower) => flower.players ?? [])
+        )
+    ].sort((a, b) => a.localeCompare(b, "ru"));
+
+    players.forEach((player) => {
+        const option = document.createElement("option");
+
+        option.value = player;
+        option.textContent = player;
+
+        playerFilter.appendChild(option);
+    });
+}
+
+
 function renderFlowers() {
     const searchQuery = searchInput.value.trim().toLowerCase();
+    const selectedPlayer = playerFilter.value;
+    const minPointsValue = minPointsInput.value.trim();
+
+    const hasMinPointsFilter = minPointsValue !== "";
+    const minPoints = Number(minPointsValue);
 
     const filteredFlowers = flowers
         .filter((flower) => {
@@ -42,7 +68,23 @@ function renderFlowers() {
             const matchesSearch =
                 flower.name.toLowerCase().includes(searchQuery);
 
-            return matchesCategory && matchesSearch;
+            const matchesPlayer =
+                selectedPlayer === "" ||
+                (flower.players ?? []).includes(selectedPlayer);
+
+            const matchesMinPoints =
+                !hasMinPointsFilter ||
+                (
+                    typeof flower.points === "number" &&
+                    flower.points >= minPoints
+                );
+
+            return (
+                matchesCategory &&
+                matchesSearch &&
+                matchesPlayer &&
+                matchesMinPoints
+            );
         })
         .sort((a, b) => a.name.localeCompare(b.name, "ru"));
 
@@ -66,13 +108,33 @@ function renderFlowers() {
             `category-${flower.category}`
         );
 
-        card.innerHTML = `
-            <div class="flower-image">
-                <img src="${flower.image}" alt="${flower.name}">
-            </div>
+        const imageContainer = document.createElement("div");
+        imageContainer.classList.add("flower-image");
 
-            <h2>${flower.name}</h2>
-        `;
+        const image = document.createElement("img");
+        image.src = flower.image;
+        image.alt = flower.name;
+
+        const title = document.createElement("h2");
+        title.textContent = flower.name;
+
+        const points = document.createElement("p");
+        points.classList.add("flower-points");
+
+        if (
+            typeof flower.points === "number" &&
+            typeof flower.upgradedPoints === "number"
+        ) {
+            points.textContent =
+                `Баллы ${flower.points}/${flower.upgradedPoints}`;
+        } else {
+            points.textContent = "Баллы не указаны";
+        }
+
+        imageContainer.appendChild(image);
+        card.appendChild(imageContainer);
+        card.appendChild(title);
+        card.appendChild(points);
 
         flowersContainer.appendChild(card);
     });
@@ -80,6 +142,10 @@ function renderFlowers() {
 
 
 searchInput.addEventListener("input", renderFlowers);
+
+playerFilter.addEventListener("change", renderFlowers);
+
+minPointsInput.addEventListener("input", renderFlowers);
 
 
 filterButtons.forEach((button) => {
