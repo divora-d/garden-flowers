@@ -3,6 +3,10 @@ const searchInput = document.querySelector("#search");
 const filterButtons = document.querySelectorAll(".filter-btn");
 const playerFilter = document.querySelector("#player-filter");
 const minPointsInput = document.querySelector("#min-points");
+const flowerModal = document.querySelector("#flower-modal");
+const modalTitle = document.querySelector("#modal-title");
+const modalPlayers = document.querySelector("#modal-players");
+const closeModalButton = document.querySelector("#close-modal");
 
 let flowers = [];
 let currentCategory = "all";
@@ -50,6 +54,26 @@ function populatePlayerFilter() {
     });
 }
 
+function openFlowerModal(flower) {
+    modalTitle.textContent = flower.name;
+    modalPlayers.innerHTML = "";
+
+    const players = flower.players ?? [];
+
+    if (players.length === 0) {
+        const item = document.createElement("li");
+        item.textContent = "Игроки не указаны";
+        modalPlayers.appendChild(item);
+    } else {
+        players.forEach((player) => {
+            const item = document.createElement("li");
+            item.textContent = player;
+            modalPlayers.appendChild(item);
+        });
+    }
+
+    flowerModal.showModal();
+}
 
 function renderFlowers() {
     const searchQuery = searchInput.value.trim().toLowerCase();
@@ -107,7 +131,27 @@ function renderFlowers() {
             "flower-card",
             `category-${flower.category}`
         );
+        card.tabIndex = 0;
+        card.setAttribute("role", "button");
+        card.setAttribute(
+            "aria-label",
+            `Показать игроков цветка ${flower.name}`
+        );
 
+        card.addEventListener("click", () => {
+            openFlowerModal(flower);
+        });
+
+        card.addEventListener("keydown", (event) => {
+            if (event.target !== card) {
+                return;
+            }
+
+            if (event.key === "Enter" || event.key === " ") {
+                event.preventDefault();
+                openFlowerModal(flower);
+            }
+        });
         const imageContainer = document.createElement("div");
         imageContainer.classList.add("flower-image");
 
@@ -162,5 +206,14 @@ filterButtons.forEach((button) => {
     });
 });
 
+closeModalButton.addEventListener("click", () => {
+    flowerModal.close();
+});
+
+flowerModal.addEventListener("click", (event) => {
+    if (event.target === flowerModal) {
+        flowerModal.close();
+    }
+});
 
 loadFlowers();
