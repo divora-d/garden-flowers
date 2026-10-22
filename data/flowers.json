@@ -1,705 +1,1577 @@
 [
   {
-    "name": "Алая немезия",
-    "image": "images/alaya-nemesia.webp",
+    "name": "Абрикосовый ирис",
     "category": "purple",
-    "players": ["Тест"],
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/abrikosovyi-iris.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Алая немезия",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Ким Мари",
+      "Е Сю",
+      "Мэй Мэй"
+    ],
+    "image": "images/alaya-nemesia.webp",
     "points": null,
     "upgradedPoints": null
   },
   {
     "name": "Алый химонант",
-    "image": "images/alyi-himonant.webp",
     "category": "purple",
-    "players": ["Тест"],
+    "players": [
+      "Divora",
+      "Ким Мари",
+      "Е Сю",
+      "Vika",
+      "Мэй Мэй",
+      "Кім Чі"
+    ],
+    "image": "images/alyi-himonant.webp",
     "points": null,
     "upgradedPoints": null
   },
   {
     "name": "Аметистовая фуксия",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Ким Мари"
+    ],
     "image": "images/ametistovaya-fuksiya.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Белый клематис",
-    "image": "images/belyi-klematis.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Брунфельсия",
-    "image": "images/brunfelsiya.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Оранжевая вербена",
-    "image": "images/oranzhevaya-verbena.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Вифлеемская звезда",
-    "image": "images/vifleemskaya-zvezda.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Вишневый ондициум",
-    "image": "images/vishnevyi-onditsium.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Голубая петуния",
-    "image": "images/golubaya-petuniya.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Голубой меконопсис",
-    "image": "images/goluboi-mekonopsis.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Дурман",
-    "image": "images/durman.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Желтая скабиоза",
-    "image": "images/zheltaya-skabioza.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Звезды в лепестках",
-    "image": "images/zvezdy-v-lepestkah.webp",
-    "category": "red",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Изумрудный лилейник",
-    "image": "images/izumrudnyi-lileinik.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Красный мак",
-    "image": "images/krasnyi-mak.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Лазурная энотера",
-    "image": "images/lazurnaya-enotera.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Лазурный корал",
-    "image": "images/lazurnyi-koral.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Ликорис",
-    "image": "images/likoris.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Лук исполинский",
-    "image": "images/luk-ispolinskii.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Медово-желтая глоксиния",
-    "image": "images/medovo-zheltaya-gloksiniya.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Огненная орхидея",
-    "image": "images/ognennaya-orhideya.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Оранжевый мак",
-    "image": "images/oranzhevyi-mak.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Падуб мутовчатый",
-    "image": "images/padub-mutovchatyi.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Роза Шампань",
-    "image": "images/roza-shampan.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Розовая энотера",
-    "image": "images/rozovaya-enotera.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Розовый гибискус",
-    "image": "images/rozovyi-gibiskus.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Розовый спатифилум",
-    "image": "images/rozovyi-spatifillum.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Сиреневый мак",
-    "image": "images/sirenevyi-mak.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Тушь поднебесной",
-    "image": "images/tush-podnebesnoi.webp",
-    "category": "red",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Фиолетовая эйхорния",
-    "image": "images/fioletovaya-eihorniya.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Хлопковый мишка",
-    "image": "images/hlopkovyi-mishka.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Цикас лазурный",
-    "image": "images/tsikas-lazurnyi.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Чернильная сосна",
-    "image": "images/chernilnaya-sosna.webp",
-    "category": "gold",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Белая анемона",
-    "image": "images/belaya-anemona.webp",
-    "category": "purple",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Жемчужная магнолия",
-    "image": "images/zhemchuzhnaya-magnoliya.webp",
-    "category": "gold",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Золотистый османтус",
-    "category": "purple",
-    "image": "images/zolotistyi-osmantus.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Серебристый османтус",
-    "category": "purple",
-    "image": "images/serebristyi-osmantus.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Фиолетовая магнолия",
-    "category": "purple",
-    "image": "images/fioletovaya-magnoliya.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Полуночная лагерстрёмия",
-    "category": "purple",
-    "image": "images/polunochnaya-lagerstremiya.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Синее пламя",
-    "category": "gold",
-    "image": "images/sinee-plamya.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Ночной аромат",
-    "category": "gold",
-    "image": "images/nochnoy-aromat.webp",
-    "players": ["Тест"],
-    "points": 25,
-    "upgradedPoints": 50
-  },
-  {
-    "name": "Аромат опавших лепестков",
-    "category": "gold",
-    "image": "images/aromat-opavshih-lepestkov.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Снежный лотос в тумане",
-    "category": "gold",
-    "image": "images/snezhnyi-lotos-v-tumane.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Сад ночных грёз",
-    "category": "red",
-    "image": "images/sad-nochnyh-grez.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Белая левизия",
-    "category": "purple",
-    "image": "images/belaya-leviziya.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Облачно-белый клеродендрум",
-    "category": "purple",
-    "image": "images/oblachno-belyi-klerodendrum.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Ароматная клетка",
-    "category": "gold",
-    "image": "images/aromatnaya-kletka.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Фиолетовая китайская гвоздика",
-    "category": "purple",
-    "image": "images/fioletovaya-kitaiskaya-gvozdika.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Зеленый цимбидиум",
-    "category": "purple",
-    "image": "images/zelenyi-tsimbidium.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Белый офиопогон",
-    "category": "purple",
-    "image": "images/belyi-ofiopogon.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Фиолетовая космея",
-    "category": "purple",
-    "image": "images/fioletovaya-kosmeye.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Желтая магнолия",
-    "category": "purple",
-    "image": "images/zheltaya-magnoliya.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Танец лепестков",
-    "category": "gold",
-    "image": "images/tanets-lepestkov.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Желтый химонант",
-    "category": "gold",
-    "image": "images/zheltyi-himonant.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Лазурный пион Мудань",
-    "category": "gold",
-    "image": "images/lazurnyi-pion-mudan.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Абрикосовый ирис",
-    "category": "purple",
-    "image": "images/abrikosovyi-iris.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Розовый химонант",
-    "category": "gold",
-    "image": "images/rozovyi-himonant.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Пурпурный ирис",
-    "category": "purple",
-    "image": "images/purpurnyi-iris.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Лед. танец роз и бабочек",
-    "category": "gold",
-    "image": "images/led-tanets-roz-i-babochek.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Роз. танец роз и бабочек",
-    "category": "gold",
-    "image": "images/roz-tanets-roz-i-babochek.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Белое чудо",
-    "category": "gold",
-    "image": "images/beloe-chudo.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Закатная фуксия",
-    "category": "purple",
-    "image": "images/zakatnaya-fuksiya.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Персиковая рябь",
-    "category": "gold",
-    "image": "images/persikovaya-ryab.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Голубые волны",
-    "category": "gold",
-    "image": "images/golubye-volny.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Оранжевый амараллис",
-    "category": "purple",
-    "image": "images/oranzhevyi-amarallis.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Пламенный амараллис",
-    "category": "purple",
-    "image": "images/plamennyi-amarallis.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Белая роза Бэнкс",
-    "category": "purple",
-    "image": "images/belaya-roza-benks.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Заревая куркума",
-    "category": "purple",
-    "image": "images/zarevaya-kurkuma.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Фиолет. хризантема-пион",
-    "category": "gold",
-    "image": "images/fiolet-hrizantema-pion.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Фарфоровая хризантема-пион",
-    "category": "gold",
-    "image": "images/farforovaya-hrizantema-pion.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Оранжевая хризантема-пион",
-    "category": "gold",
-    "image": "images/oranzhevaya-hrizantema-pion.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Розовый пион Шаояо",
-    "category": "purple",
-    "image": "images/rozovyi-pion-shaoyao.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Сумеречная аквилегия",
-    "category": "purple",
-    "image": "images/sumerechnaya-akvilegiya.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Цветущие звезды",
-    "category": "purple",
-    "image": "images/tsvetushchie-zvezdy.webp",
-    "players": ["Тест"],
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
-    "name": "Розовое каланхоэ",
-    "category": "purple",
-    "image": "images/rozovoe-kalanhoe.webp",
-    "players": ["Тест"],
     "points": null,
     "upgradedPoints": null
   },
   {
     "name": "Аромат магнолии",
     "category": "gold",
+    "players": [
+      "Тінка",
+      "Е Сю",
+      "Мэй Мэй"
+    ],
     "image": "images/aromat-magnolii.webp",
-    "players": ["Тест"],
     "points": null,
     "upgradedPoints": null
   },
   {
-    "name": "Желтый меконопсис",
+    "name": "Аромат опавших лепестков",
+    "category": "gold",
+    "players": [
+      "Мэй Мэй"
+    ],
+    "image": "images/aromat-opavshih-lepestkov.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Ароматная клетка",
+    "category": "gold",
+    "players": [
+      "Е Сю"
+    ],
+    "image": "images/aromatnaya-kletka.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Белая анемона",
     "category": "purple",
+    "players": [
+      "Е Сю",
+      "АняРам"
+    ],
+    "image": "images/belaya-anemona.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Белая левизия",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Кім Чі"
+    ],
+    "image": "images/belaya-leviziya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Белая роза Бэнкс",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/belaya-roza-benks.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Белое чудо",
+    "category": "gold",
+    "players": [
+      "Тінка",
+      "Ким Мари"
+    ],
+    "image": "images/beloe-chudo.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Белый клематис",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Ким Мари"
+    ],
+    "image": "images/belyi-klematis.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Белый офиопогон",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/belyi-ofiopogon.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Брунфельсия",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Divora",
+      "Avelora",
+      "Vika",
+      "Хва Чен"
+    ],
+    "image": "images/brunfelsiya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Оранжевая вербена",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Ким Мари"
+    ],
+    "image": "images/oranzhevaya-verbena.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Вифлеемская звезда",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Avelora",
+      "Ким Мари",
+      "Е Сю",
+      "Мэй Мэй",
+      "Кім Чі"
+    ],
+    "image": "images/vifleemskaya-zvezda.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Вишневый ондициум",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Ким Мари"
+    ],
+    "image": "images/vishnevyi-onditsium.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Голубая петуния",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Divora",
+      "Avelora",
+      "Ким Мари",
+      "Е Сю",
+      "Vika",
+      "Мэй Мэй",
+      "Кім Чі",
+      "Хва Чен",
+      "АняРам"
+    ],
+    "image": "images/golubaya-petuniya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Голубой меконопсис",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Кім Чі"
+    ],
+    "image": "images/goluboi-mekonopsis.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Голубые волны",
+    "category": "gold",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/golubye-volny.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Дурман",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Divora",
+      "Avelora",
+      "Ким Мари",
+      "Е Сю",
+      "Мэй Мэй",
+      "Хва Чен"
+    ],
+    "image": "images/durman.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Жёлтая магнолия",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/zheltaya-magnoliya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Жёлтая скабиоза",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Ким Мари",
+      "Е Сю",
+      "Мэй Мэй"
+    ],
+    "image": "images/zheltaya-skabioza.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Жёлтый антирринум",
+    "category": "purple",
+    "players": [
+      "Avelora",
+      "Мэй Мэй"
+    ],
+    "image": "images/zheltyi-antirrinum.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Жёлтый меконопсис",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Кім Чі"
+    ],
     "image": "images/zheltyi-mekonopsis.webp",
-    "players": ["Тест"],
     "points": null,
     "upgradedPoints": null
   },
   {
-    "name": "Розовый дельфиниум",
+    "name": "Жёлтый химонант",
+    "category": "gold",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/zheltyi-himonant.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Жемчужная магнолия",
+    "category": "gold",
+    "players": [
+      "Ким Мари",
+      "Е Сю",
+      "Мэй Мэй",
+      "Кім Чі"
+    ],
+    "image": "images/zhemchuzhnaya-magnoliya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Закатная фуксия",
     "category": "purple",
-    "image": "images/rozovyi-delfinium.webp",
-    "players": ["Тест"],
+    "players": [
+      "Тінка",
+      "Ким Мари"
+    ],
+    "image": "images/zakatnaya-fuksiya.webp",
     "points": null,
     "upgradedPoints": null
   },
   {
-    "name": "Сучжоуский дождь",
-    "category": "gold",
-    "image": "images/suzhouskii-dozhd.webp",
-    "players": ["Тінка"],
+    "name": "Заревая куркума",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/zarevaya-kurkuma.webp",
     "points": null,
     "upgradedPoints": null
   },
   {
-    "name": "Цветы, дарящие весну",
+    "name": "Звезды в лепестках",
+    "category": "red",
+    "players": [
+      "Тінка",
+      "Divora",
+      "Avelora",
+      "Е Сю",
+      "Мэй Мэй"
+    ],
+    "image": "images/zvezdy-v-lepestkah.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Зелёный цимбидиум",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/zelenyi-tsimbidium.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Золотистый османтус",
+    "category": "purple",
+    "players": [
+      "Мэй Мэй"
+    ],
+    "image": "images/zolotistyi-osmantus.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Изумрудный лилейник",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Ким Мари",
+      "Е Сю",
+      "Мэй Мэй"
+    ],
+    "image": "images/izumrudnyi-lileinik.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Красный мак",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Ким Мари",
+      "Vika"
+    ],
+    "image": "images/krasnyi-mak.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Лазурная энотера",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Ким Мари",
+      "Мэй Мэй",
+      "Кім Чі"
+    ],
+    "image": "images/lazurnaya-enotera.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Лазурный коралл",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Е Сю",
+      "Мэй Мэй",
+      "Ким Мари"
+    ],
+    "image": "images/lazurnyi-koral.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Лазурный пион Мудань",
     "category": "gold",
-    "image": "images/tsvety-daryashchie-vesnu.webp",
-    "players": ["Тест"],
+    "players": [
+      "Тінка",
+      "Е Сю"
+    ],
+    "image": "images/lazurnyi-pion-mudan.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Лед. танец роз и бабочек",
+    "category": "gold",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/led-tanets-roz-i-babochek.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Ликорис",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Avelora",
+      "Ким Мари",
+      "Е Сю",
+      "Мэй Мэй",
+      "Кім Чі"
+    ],
+    "image": "images/likoris.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Лук исполинский",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Divora",
+      "Avelora",
+      "Ким Мари",
+      "АняРам"
+    ],
+    "image": "images/luk-ispolinskii.webp",
     "points": null,
     "upgradedPoints": null
   },
   {
     "name": "Лунная клетка",
     "category": "gold",
+    "players": [
+      "Тінка"
+    ],
     "image": "images/lunnaya-kletka.webp",
-    "players": ["Тест"],
     "points": null,
     "upgradedPoints": null
   },
   {
-      "name": "Жёлтый антирринум",
-      "category": "purple",
-      "image": "images/zheltyi-antirr inum.webp",
-    "players": ["Тест"],
+    "name": "Медово-желтая глоксиния",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Ким Мари",
+      "Е Сю",
+      "Кім Чі"
+    ],
+    "image": "images/medovo-zheltaya-gloksiniya.webp",
     "points": null,
     "upgradedPoints": null
   },
   {
-    "name": "Цветок памяти",
-    "category": "red",
-    "image": "images/tsvetok-pamyati.webp",
-    "players": ["Тест"],
+    "name": "Ночной аромат",
+    "category": "gold",
+    "players": [
+      "Мэй Мэй"
+    ],
+    "image": "images/nochnoy-aromat.webp",
+    "points": 25,
+    "upgradedPoints": 50
+  },
+  {
+    "name": "Облачно-белый клеродендрум",
+    "category": "purple",
+    "players": [
+      "Е Сю"
+    ],
+    "image": "images/oblachno-belyi-klerodendrum.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Огненная орхидея",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Divora",
+      "Avelora",
+      "Ким Мари",
+      "Хва Чен"
+    ],
+    "image": "images/ognennaya-orhideya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Оранжевая хризантема-пион",
+    "category": "gold",
+    "players": [
+      "Тінка",
+      "Е Сю"
+    ],
+    "image": "images/oranzhevaya-hrizantema-pion.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Оранжевый амараллис",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/oranzhevyi-amarallis.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Оранжевый мак",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Ким Мари"
+    ],
+    "image": "images/oranzhevyi-mak.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Падуб мутовчатый",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Divora",
+      "Avelora",
+      "Ким Мари",
+      "Е Сю",
+      "Vika",
+      "Мэй Мэй",
+      "Кім Чі",
+      "Хва Чен",
+      "АняРам"
+    ],
+    "image": "images/padub-mutovchatyi.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Персиковая рябь",
+    "category": "gold",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/persikovaya-ryab.webp",
     "points": null,
     "upgradedPoints": null
   },
   {
     "name": "Пион \"Розовый кварц\"",
     "category": "gold",
+    "players": [
+      "Тінка",
+      "Avelora",
+      "Ким Мари",
+      "Е Сю",
+      "Мэй Мэй",
+      "Кім Чі"
+    ],
     "image": "images/pion-rozovyi-kvarts.webp",
-    "players": ["Тест"],
     "points": null,
     "upgradedPoints": null
   },
   {
-    "name": "Розовый лилейник",
+    "name": "Пламенный амараллис",
     "category": "purple",
-    "image": "images/rozovyi-lileinik.webp",
-    "players": ["Тест"],
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/plamennyi-amarallis.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Полуночная лагерстрёмия",
+    "category": "purple",
+    "players": [
+      "Мэй Мэй"
+    ],
+    "image": "images/polunochnaya-lagerstremiya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Пурпурный ирис",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/purpurnyi-iris.webp",
     "points": null,
     "upgradedPoints": null
   },
   {
     "name": "Роз. гибискус в ларце",
     "category": "gold",
+    "players": [
+      "Тінка"
+    ],
     "image": "images/roz-gibiskus-v-lartse.webp",
-    "players": ["Тест"],
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Роз. танец роз и бабочек",
+    "category": "gold",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/roz-tanets-roz-i-babochek.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Роза Шампань",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Avelora",
+      "Е Сю",
+      "Vika",
+      "Мэй Мэй",
+      "Кім Чі"
+    ],
+    "image": "images/roza-shampan.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Розовая энотера",
+    "category": "purple",
+    "players": [
+      "Divora",
+      "Avelora",
+      "Е Сю",
+      "Мэй Мэй",
+      "АняРам"
+    ],
+    "image": "images/rozovaya-enotera.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Розовое каланхоэ",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/rozovoe-kalanhoe.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Розовый гибискус",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Divora",
+      "Avelora",
+      "Ким Мари",
+      "Е Сю",
+      "Vika",
+      "Мэй Мэй",
+      "Кім Чі",
+      "Хва Чен"
+    ],
+    "image": "images/rozovyi-gibiskus.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Розовый дельфиниум",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Ким Мари",
+      "Кім Чі"
+    ],
+    "image": "images/rozovyi-delfinium.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Розовый лилейник",
+    "category": "purple",
+    "players": [
+      "Avelora",
+      "Ким Мари"
+    ],
+    "image": "images/rozovyi-lileinik.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Розовый пион Шаояо",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/rozovyi-pion-shaoyao.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Розовый спатифилум",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Divora",
+      "Avelora",
+      "Ким Мари",
+      "Е Сю",
+      "Мэй Мэй",
+      "Кім Чі"
+    ],
+    "image": "images/rozovyi-spatifillum.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Розовый химонант",
+    "category": "gold",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/rozovyi-himonant.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Сад ночных грёз",
+    "category": "red",
+    "players": [
+      "Мэй Мэй"
+    ],
+    "image": "images/sad-nochnyh-grez.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Серебристый османтус",
+    "category": "purple",
+    "players": [
+      "Avelora",
+      "Мэй Мэй"
+    ],
+    "image": "images/serebristyi-osmantus.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Синее пламя",
+    "category": "gold",
+    "players": [
+      "Е Сю",
+      "Мэй Мэй"
+    ],
+    "image": "images/sinee-plamya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Сиреневый мак",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Ким Мари"
+    ],
+    "image": "images/sirenevyi-mak.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Снежный лотос в тумане",
+    "category": "gold",
+    "players": [
+      "Divora",
+      "Avelora",
+      "Ким Мари",
+      "Е Сю",
+      "Мэй Мэй",
+      "Кім Чі"
+    ],
+    "image": "images/snezhnyi-lotos-v-tumane.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Сумеречная аквилегия",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/sumerechnaya-akvilegiya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Сучжоуский дождь",
+    "category": "gold",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/suzhouskii-dozhd.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Танец лепестков",
+    "category": "gold",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/tanets-lepestkov.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Тушь поднебесной",
+    "category": "red",
+    "players": [
+      "Ким Мари",
+      "Мэй Мэй"
+    ],
+    "image": "images/tush-podnebesnoi.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Фарфоровая хризантема-пион",
+    "category": "gold",
+    "players": [
+      "Тінка",
+      "Ким Мари",
+      "Е Сю"
+    ],
+    "image": "images/farforovaya-hrizantema-pion.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Фиолет. хризантема-пион",
+    "category": "gold",
+    "players": [],
+    "image": "images/fiolet-hrizantema-pion.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Фиолетовая китайская гвоздика",
+    "category": "purple",
+    "players": [
+      "Е Сю"
+    ],
+    "image": "images/fioletovaya-kitaiskaya-gvozdika.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Фиолетовая космея",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/fioletovaya-kosmeye.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Фиолетовая магнолия",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Мэй Мэй"
+    ],
+    "image": "images/fioletovaya-magnoliya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Фиолетовая эйхорния",
+    "category": "purple",
+    "players": [
+      "Ким Мари"
+    ],
+    "image": "images/fioletovaya-eihorniya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Хлопковый мишка",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Divora",
+      "Avelora",
+      "Ким Мари",
+      "Е Сю",
+      "Vika",
+      "Мэй Мэй",
+      "Кім Чі",
+      "АняРам"
+    ],
+    "image": "images/hlopkovyi-mishka.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Цветок памяти",
+    "category": "red",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/tsvetok-pamyati.webp",
     "points": null,
     "upgradedPoints": null
   },
   {
     "name": "Цветочное свидание",
     "category": "gold",
+    "players": [
+      "Тінка"
+    ],
     "image": "images/tsvetochnoe-svidanie.webp",
-    "players": ["Тест"],
     "points": null,
     "upgradedPoints": null
   },
   {
     "name": "Цветочные пирожные",
     "category": "gold",
+    "players": [
+      "Е Сю"
+    ],
     "image": "images/tsvetochnye-pirozhnye.webp",
-    "players": ["Тест"],
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Цветущие звезды",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/tsvetushchie-zvezdy.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Цветы, дарящие весну",
+    "category": "gold",
+    "players": [
+      "Тінка",
+      "Avelora"
+    ],
+    "image": "images/tsvety-daryashchie-vesnu.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Цикас лазурный",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Divora",
+      "Avelora",
+      "Ким Мари",
+      "Е Сю",
+      "Мэй Мэй",
+      "Кім Чі"
+    ],
+    "image": "images/tsikas-lazurnyi.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Чернильная сосна",
+    "category": "gold",
+    "players": [
+      "Тінка",
+      "Ким Мари",
+      "Е Сю",
+      "Мэй Мэй",
+      "Кім Чі"
+    ],
+    "image": "images/chernilnaya-sosna.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Золотисто-белый ирис",
+    "category": "purple",
+    "players": [
+      "Divora",
+      "Мэй Мэй"
+    ],
+    "image": "images/zolotisto-belyi-iris.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Фиолет. гибискус в ларце",
+    "category": "gold",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/fiolet-gibiskus-v-lartse.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Вести от цветов",
+    "category": "gold",
+    "players": [
+      "Тінка",
+      "Ким Мари",
+      "Е Сю",
+      "Мэй Мэй"
+    ],
+    "image": "images/vesti-ot-tsvetov.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Пурпурный пион Мудань",
+    "category": "gold",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/purpurnyi-pion-mudan.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Звездная клетка",
+    "category": "gold",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/zvezdnaya-kletka.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Розовая скабиоза",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/rozovaya-skabioza.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Темный георгин",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/temnyi-georgin.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Розовая вербена",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Мэй Мэй"
+    ],
+    "image": "images/rozovaya-verbena.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Лиловый лилейник",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Е Сю"
+    ],
+    "image": "images/lilovyi-lileinik.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Сиреневый меконопсис",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/sirenevyi-mekonopsis.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Оранжевый ондициум",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/oranzhevyi-onditsium.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Розовая левизия",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/rozovaya-leviziya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Темно-розовая глоксиния",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Е Сю"
+    ],
+    "image": "images/temno-rozovaya-gloksiniya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Медово-розовая немезия",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/medovo-rozovaya-nemeziya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Небесно-голубая немезия",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/nebesno-golubaya-nemeziya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Жёлтый капмасис",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/zheltyi-kapmasis.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Розовая спирея",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/rozovaya-spireya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Розовая космея",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/rozovaya-kosmeya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Белый цимбидиум",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "ЛиИюнь"
+    ],
+    "image": "images/belyi-tsimbidium.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Жёлтый ондициум",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/zheltyi-onditsium.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Персиковый георгин",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Хва Чен"
+    ],
+    "image": "images/persikovyi-georgin.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Голубой олеандр",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/goluboi-oleandr.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Голубой шиповник",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/goluboi-shipovnik.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Снежная актиния",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/snezhnaya-aktiniya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Серебристая спирея",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/serebristaya-spireya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Розовая бегония",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/rozovaya-begoniya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Розовый офиопогон",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Кім Чі"
+    ],
+    "image": "images/rozovyi-ofiopogon.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Лунное мерцание",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/lunnoe-mertsanie.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Розовый антирринум",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Avelora",
+      "Ким Мари",
+      "Е Сю",
+      "Мэй Мэй"
+    ],
+    "image": "images/rozovyi-antirrinum.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Синий дельфиниум",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Ким Мари"
+    ],
+    "image": "images/sinii-delfinium.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Фиолетовая морея",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/fioletovaya-moreya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Светло-фиолетовая глоксиния",
+    "category": "purple",
+    "players": [
+      "Тінка",
+      "Avelora",
+      "Ким Мари",
+      "Е Сю",
+      "Мэй Мэй",
+      "Кім Чі"
+    ],
+    "image": "images/svetlo-fioletovaya-gloksiniya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Жёлтый шиповник",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/zheltyi-shipovnik.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Розовый лютик",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/rozovyi-lyutik.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Жёлтая левизия",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/zheltaya-leviziya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Бумажный змей встречает весну",
+    "category": "gold",
+    "players": [
+      "Avelora"
+    ],
+    "image": "images/bumazhnyi-zmei-vstrechaet-vesnu.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Облачный пион Шаояо",
+    "category": "purple",
+    "players": [
+      "Ким Мари",
+      "Е Сю",
+      "Кім Чі",
+      "АняРам"
+    ],
+    "image": "images/oblachnyi-pion-shaoyao.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Розовая анемона",
+    "category": "purple",
+    "players": [
+      "Ким Мари",
+      "Е Сю",
+      "Кім Чі",
+      "АняРам"
+    ],
+    "image": "images/rozovaya-anemona.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Оранжевый коралл",
+    "category": "purple",
+    "players": [
+      "Ким Мари"
+    ],
+    "image": "images/oranzhevyi-korall.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Розовый коралл",
+    "category": "purple",
+    "players": [
+      "Ким Мари"
+    ],
+    "image": "images/rozovyi-korall.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Фиолетовый дельфиниум",
+    "category": "purple",
+    "players": [
+      "Divora",
+      "Ким Мари"
+    ],
+    "image": "images/fioletovyi-delfinium.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Рыба-фонарик у ручья",
+    "category": "red",
+    "players": [
+      "Ким Мари",
+      "Мэй Мэй",
+      "Кім Чі"
+    ],
+    "image": "images/ryba-fonarik-u-ruchya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Пунцовая актиния",
+    "category": "purple",
+    "players": [
+      "Ким Мари",
+      "Е Сю"
+    ],
+    "image": "images/puntsovaya-aktiniya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Фиолетовая анемона",
+    "category": "purple",
+    "players": [
+      "Е Сю",
+      "АняРам"
+    ],
+    "image": "images/fioletovaya-anemona.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Пурпурная баухиния",
+    "category": "purple",
+    "players": [
+      "Е Сю"
+    ],
+    "image": "images/purpurnaya-bauhiniya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Светло-алый стрелолист",
+    "category": "purple",
+    "players": [
+      "Е Сю"
+    ],
+    "image": "images/svetlo-alyi-strelolist.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Киноварный османтус",
+    "category": "purple",
+    "players": [
+      "Мэй Мэй",
+      "Кім Чі"
+    ],
+    "image": "images/kinovarnyi-osmantus.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Темно-красный морозник",
+    "category": "purple",
+    "players": [
+      "Мэй Мэй"
+    ],
+    "image": "images/temno-krasnyi-moroznik.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Жёлтый морозник",
+    "category": "purple",
+    "players": [
+      "Мэй Мэй"
+    ],
+    "image": "images/zheltyi-moroznik.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Румяный пион Шаояо",
+    "category": "purple",
+    "players": [
+      "Кім Чі"
+    ],
+    "image": "images/rumyanyi-pion-shaoyao.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Розовый морозник",
+    "category": "purple",
+    "players": [
+      "Кім Чі"
+    ],
+    "image": "images/rozovyi-moroznik.webp",
     "points": null,
     "upgradedPoints": null
   }
