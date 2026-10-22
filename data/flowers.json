@@ -396,8 +396,8 @@
       "Vika"
     ],
     "image": "images/krasnyi-mak.webp",
-    "points": null,
-    "upgradedPoints": null
+    "points": 23,
+    "upgradedPoints": 46
   },
   {
     "name": "Лазурная энотера",
@@ -433,8 +433,8 @@
       "Е Сю"
     ],
     "image": "images/lazurnyi-pion-mudan.webp",
-    "points": null,
-    "upgradedPoints": null
+    "points": 25,
+    "upgradedPoints": 50
   },
   {
     "name": "Лед. танец роз и бабочек",
@@ -561,8 +561,8 @@
       "Ким Мари"
     ],
     "image": "images/oranzhevyi-mak.webp",
-    "points": null,
-    "upgradedPoints": null
+    "points": 23,
+    "upgradedPoints": 46
   },
   {
     "name": "Падуб мутовчатый",
@@ -781,8 +781,8 @@
       "Мэй Мэй"
     ],
     "image": "images/sad-nochnyh-grez.webp",
-    "points": null,
-    "upgradedPoints": null
+    "points": 28,
+    "upgradedPoints": 56
   },
   {
     "name": "Серебристый османтус",
@@ -814,8 +814,8 @@
       "Ким Мари"
     ],
     "image": "images/sirenevyi-mak.webp",
-    "points": null,
-    "upgradedPoints": null
+    "points": 23,
+    "upgradedPoints": 46
   },
   {
     "name": "Снежный лотос в тумане",
@@ -1074,8 +1074,8 @@
       "Тінка"
     ],
     "image": "images/purpurnyi-pion-mudan.webp",
-    "points": null,
-    "upgradedPoints": null
+    "points": 25,
+    "upgradedPoints": 50
   },
   {
     "name": "Звездная клетка",
