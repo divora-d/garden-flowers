@@ -282,8 +282,8 @@
       "Мэй Мэй"
     ],
     "image": "images/zheltyi-antirrinum.webp",
-    "points": null,
-    "upgradedPoints": null
+    "points": 23,
+    "upgradedPoints": 23
   },
   {
     "name": "Жёлтый меконопсис",
@@ -371,8 +371,8 @@
       "Мэй Мэй"
     ],
     "image": "images/zolotistyi-osmantus.webp",
-    "points": null,
-    "upgradedPoints": null
+    "points": 21,
+    "upgradedPoints": 42
   },
   {
     "name": "Изумрудный лилейник",
@@ -792,8 +792,8 @@
       "Мэй Мэй"
     ],
     "image": "images/serebristyi-osmantus.webp",
-    "points": null,
-    "upgradedPoints": null
+    "points": 21,
+    "upgradedPoints": 42
   },
   {
     "name": "Синее пламя",
@@ -1423,8 +1423,8 @@
       "АняРам"
     ],
     "image": "images/oblachnyi-pion-shaoyao.webp",
-    "points": null,
-    "upgradedPoints": null
+    "points": 21,
+    "upgradedPoints": 42
   },
   {
     "name": "Розовая анемона",
@@ -1532,8 +1532,8 @@
       "Кім Чі"
     ],
     "image": "images/kinovarnyi-osmantus.webp",
-    "points": null,
-    "upgradedPoints": null
+    "points": 21,
+    "upgradedPoints": 42
   },
   {
     "name": "Темно-красный морозник",
@@ -1572,7 +1572,7 @@
       "Кім Чі"
     ],
     "image": "images/rozovyi-moroznik.webp",
-    "points": null,
-    "upgradedPoints": null
+    "points": 23,
+    "upgradedPoints": 46
   }
 ]
