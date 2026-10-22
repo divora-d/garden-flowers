@@ -392,7 +392,7 @@ body {
     }
 
     .flowers-container {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(auto-fill, 140px);
         gap: 10px;
         padding: 3px;
     }
