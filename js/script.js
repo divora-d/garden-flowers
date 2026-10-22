@@ -92,8 +92,18 @@ function openFlowerModal(flower) {
     flowerModal.showModal();
 }
 
+function normalizeText(text) {
+    return text
+        .toLowerCase()
+        .replace(/ё/g, "е")
+        .replace(/э/g, "е")
+        .replace(/є/g, "е")
+        .replace(/ы/g, "и")
+        .replace(/і/g, "и");
+}
+
 function renderFlowers() {
-    const searchQuery = searchInput.value.trim().toLowerCase();
+    const searchQuery = normalizeText(searchInput.value.trim());
     const selectedPlayer = playerFilter.value;
     const minPointsValue = minPointsInput.value.trim();
 
@@ -106,8 +116,12 @@ function renderFlowers() {
                 currentCategory === "all" ||
                 flower.category === currentCategory;
 
+            const normalizedFlowerName = flower.name
+                .toLowerCase()
+                .replace(/ё/g, "е");
+
             const matchesSearch =
-                flower.name.toLowerCase().includes(searchQuery);
+                normalizeText(flower.name).includes(searchQuery);
 
             const matchesPlayer =
                 selectedPlayer === "" ||
