@@ -365,6 +365,14 @@ body {
         margin: auto 16px;
         padding: 18px;
     }
+    body {
+        height: auto;
+        overflow-y: auto;
+    }
+
+    .flowers-container {
+        overflow-y: visible;
+    }
 }
 
 
