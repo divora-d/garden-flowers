@@ -1816,5 +1816,15 @@
       ],
       "points": null,
       "upgradedPoints": null
+  },
+  {
+      "name": "Розовый лютик",
+      "category": "purple",
+      "image": "images/rozovyi-lyutik.webp",
+      "players": [
+        "АняРам"
+      ],
+      "points": null,
+      "upgradedPoints": null
   }
 ]
