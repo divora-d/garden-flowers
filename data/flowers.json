@@ -1759,7 +1759,10 @@
     "name": "Розовый шиповник",
     "category": "purple",
     "image": "images/rozovyi-shipovnik.webp",
-    "players": ["ЛуНина", "ХваЧен"],
+    "players": [
+      "ЛуНина", 
+      "ХваЧен"
+    ],
     "points": null,
     "upgradedPoints": null
   },
@@ -1767,7 +1770,9 @@
       "name": "Чайная роза на закате",
       "category": "gold",
       "image": "images/chaynaya-roza-na-zakate.webp",
-      "players": ["Тінка"],
+      "players": [
+        "Тінка"
+      ],
       "points": null,
       "upgradedPoints": null
   },
@@ -1775,15 +1780,20 @@
       "name": "Сиреневая бабочка",
       "category": "gold",
       "image": "images/sirenevaya-babochka.webp",
-      "players": ["Тінка"],
+      "players": [
+        "Тінка"
+      ],
       "points": null,
       "upgradedPoints": null
   },
   {
-      "name": "Розовій травянистій гибискус",
+      "name": "Розовый травянистый гибискус",
       "category": "purple",
       "image": "images/rozoviy-travyanistiy-gibiskus.webp",
-      "players": ["Avelora", "Тінка"],
+      "players": [
+        "Avelora", 
+        "Тінка"
+      ],
       "points": null,
       "upgradedPoints": null
   },
@@ -1791,7 +1801,9 @@
       "name": "Желтое каланхоэ",
       "category": "purple",
       "image": "images/zheltoe-kalanhoe.webp",
-      "players": ["ЧуСюэ"],
+      "players": [
+        "ЧуСюэ"
+      ],
       "points": null,
       "upgradedPoints": null
   },
@@ -1799,7 +1811,9 @@
       "name": "Оранжевое каланхоэ",
       "category": "purple",
       "image": "images/oranzhevoe-kalanhoe.webp",
-      "players": ["Divora"],
+      "players": [
+        "Divora"
+      ],
       "points": null,
       "upgradedPoints": null
   }
