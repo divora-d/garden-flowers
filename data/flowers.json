@@ -1798,8 +1798,18 @@
     "players": [
       "Тінка"
     ],
-    "points": null,
-    "upgradedPoints": null
+    "points": 25,
+    "upgradedPoints": 50
+  },
+    {
+    "name": "Чайная роза на рассвете",
+    "category": "gold",
+    "image": "images/chaynaya-roza-na-rassvete.webp",
+    "players": [
+      "Тінка"
+    ],
+    "points": 25,
+    "upgradedPoints": 50
   },
   {
     "name": "Сиреневая бабочка",
