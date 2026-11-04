@@ -50,8 +50,8 @@
       "Ким Мари"
     ],
     "image": "images/ametistovaya-fuksiya.webp",
-    "points": null,
-    "upgradedPoints": null
+    "points": 23,
+    "upgradedPoints": 46
   },
   {
     "name": "Аромат магнолии",
@@ -96,8 +96,8 @@
       "Асто"
     ],
     "image": "images/belaya-anemona.webp",
-    "points": null,
-    "upgradedPoints": null
+    "points": 21,
+    "upgradedPoints": 42
   },
   {
     "name": "Белая левизия",
@@ -597,8 +597,8 @@
       "Тінка"
     ],
     "image": "images/oranzhevyi-amarallis.webp",
-    "points": null,
-    "upgradedPoints": null
+    "points": 23,
+    "upgradedPoints": 46
   },
   {
     "name": "Оранжевый мак",
@@ -914,8 +914,8 @@
       "Тінка"
     ],
     "image": "images/sumerechnaya-akvilegiya.webp",
-    "points": null,
-    "upgradedPoints": null
+    "points": 23,
+    "upgradedPoints": 46
   },
   {
     "name": "Сучжоуский дождь",
@@ -1239,8 +1239,8 @@
       "Тінка"
     ],
     "image": "images/rozovaya-leviziya.webp",
-    "points": 21,
-    "upgradedPoints": 42
+    "points": 23,
+    "upgradedPoints": 46
   },
   {
     "name": "Темно-розовая глоксиния",
@@ -1260,8 +1260,8 @@
       "Тінка"
     ],
     "image": "images/medovo-rozovaya-nemeziya.webp",
-    "points": null,
-    "upgradedPoints": null
+    "points": 23,
+    "upgradedPoints": 46
   },
   {
     "name": "Небесно-голубая немезия",
@@ -1270,8 +1270,8 @@
       "Тінка"
     ],
     "image": "images/nebesno-golubaya-nemeziya.webp",
-    "points": null,
-    "upgradedPoints": null
+    "points": 23,
+    "upgradedPoints": 46
   },
   {
     "name": "Жёлтый кампсис",
@@ -1534,8 +1534,8 @@
       "Асто"
     ],
     "image": "images/rozovaya-anemona.webp",
-    "points": null,
-    "upgradedPoints": null
+    "points": 21,
+    "upgradedPoints": 42
   },
   {
     "name": "Оранжевый коралл",
@@ -1607,8 +1607,8 @@
       "СонНян"
     ],
     "image": "images/fioletovaya-anemona.webp",
-    "points": null,
-    "upgradedPoints": null
+    "points": 21,
+    "upgradedPoints": 42
   },
   {
     "name": "Пурпурная баухиния",
@@ -1830,8 +1830,8 @@
       "Тінка",
       "СонНян"
     ],
-    "points": null,
-    "upgradedPoints": null
+    "points": 23,
+    "upgradedPoints": 46
   },
   {
     "name": "Жёлтое каланхоэ",
