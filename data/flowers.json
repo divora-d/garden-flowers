@@ -1785,63 +1785,73 @@
     "category": "purple",
     "image": "images/rozovyi-shipovnik.webp",
     "players": [
-      "ЛуНина", 
+      "ЛуНина",
       "ХваЧен"
     ],
     "points": null,
     "upgradedPoints": null
   },
   {
-      "name": "Чайная роза на закате",
-      "category": "gold",
-      "image": "images/chaynaya-roza-na-zakate.webp",
-      "players": [
-        "Тінка"
-      ],
-      "points": null,
-      "upgradedPoints": null
+    "name": "Чайная роза на закате",
+    "category": "gold",
+    "image": "images/chaynaya-roza-na-zakate.webp",
+    "players": [
+      "Тінка"
+    ],
+    "points": null,
+    "upgradedPoints": null
   },
   {
-      "name": "Сиреневая бабочка",
-      "category": "gold",
-      "image": "images/sirenevaya-babochka.webp",
-      "players": [
-        "Тінка"
-      ],
-      "points": null,
-      "upgradedPoints": null
+    "name": "Сиреневая бабочка",
+    "category": "gold",
+    "image": "images/sirenevaya-babochka.webp",
+    "players": [
+      "Тінка"
+    ],
+    "points": null,
+    "upgradedPoints": null
   },
   {
-      "name": "Розовый травянистый гибискус",
-      "category": "purple",
-      "image": "images/rozovyi-travyanistyi-gibiskus.webp",
-      "players": [
-        "Avelora", 
-        "Тінка",
-        "СонНян"
-      ],
-      "points": null,
-      "upgradedPoints": null
+    "name": "Розовый травянистый гибискус",
+    "category": "purple",
+    "image": "images/rozovyi-travyanistyi-gibiskus.webp",
+    "players": [
+      "Avelora",
+      "Тінка",
+      "СонНян"
+    ],
+    "points": null,
+    "upgradedPoints": null
   },
   {
-      "name": "Жёлтое каланхоэ",
-      "category": "purple",
-      "image": "images/zheltoe-kalanhoe.webp",
-      "players": [
-        "ЧуСюэ"
-      ],
-      "points": null,
-      "upgradedPoints": null
+    "name": "Жёлтое каланхоэ",
+    "category": "purple",
+    "image": "images/zheltoe-kalanhoe.webp",
+    "players": [
+      "ЧуСюэ"
+    ],
+    "points": null,
+    "upgradedPoints": null
   },
   {
-      "name": "Оранжевое каланхоэ",
-      "category": "purple",
-      "image": "images/oranzhevoe-kalanhoe.webp",
-      "players": [
-        "Divora",
-        "СонНян"
-      ],
-      "points": null,
-      "upgradedPoints": null
+    "name": "Оранжевое каланхоэ",
+    "category": "purple",
+    "image": "images/oranzhevoe-kalanhoe.webp",
+    "players": [
+      "Divora",
+      "СонНян"
+    ],
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Сиреневый гладиолус",
+    "category": "purple",
+    "image": "images/sirenevyi-gladiolus.webp",
+    "players": [
+      "СонНян"
+    ],
+    "points": 21,
+    "upgradedPoints": 42
   }
 ]
