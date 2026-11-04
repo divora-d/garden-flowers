@@ -59,7 +59,8 @@
     "players": [
       "Тінка",
       "Е Сю",
-      "Мэй Мэй"
+      "Мэй Мэй",
+      "СонНян"
     ],
     "image": "images/aromat-magnolii.webp",
     "points": null,
@@ -103,7 +104,8 @@
     "category": "purple",
     "players": [
       "Тінка",
-      "Кім Чі"
+      "Кім Чі",
+      "СонНян"
     ],
     "image": "images/belaya-leviziya.webp",
     "points": 21,
@@ -191,7 +193,8 @@
       "Мэй Мэй",
       "Кім Чі",
       "ЧуСюэ",
-      "ЛуНина"
+      "ЛуНина",
+      "СонНян"
     ],
     "image": "images/vifleemskaya-zvezda.webp",
     "points": null,
@@ -226,7 +229,8 @@
       "ЧуСюэ",
       "ЛуНина",
       "Асто",
-      "Чжао Лу Сы"
+      "Чжао Лу Сы",
+      "СонНян"
     ],
     "image": "images/golubaya-petuniya.webp",
     "points": null,
@@ -305,7 +309,8 @@
       "Avelora",
       "Мэй Мэй",
       "ЛуНина",
-      "Тінка"
+      "Тінка",
+      "СонНян"
     ],
     "image": "images/zheltyi-antirrinum.webp",
     "points": 23,
@@ -413,7 +418,8 @@
       "Тінка",
       "Ким Мари",
       "Е Сю",
-      "Мэй Мэй"
+      "Мэй Мэй",
+      "СонНян"
     ],
     "image": "images/izumrudnyi-lileinik.webp",
     "points": 23,
@@ -490,7 +496,8 @@
       "Е Сю",
       "Мэй Мэй",
       "Кім Чі",
-      "ЧуСюэ"
+      "ЧуСюэ",
+      "СонНян"
     ],
     "image": "images/likoris.webp",
     "points": null,
@@ -528,7 +535,8 @@
       "Тінка",
       "Ким Мари",
       "Е Сю",
-      "Кім Чі"
+      "Кім Чі",
+      "СонНян"
     ],
     "image": "images/medovo-zheltaya-gloksiniya.webp",
     "points": null,
@@ -575,7 +583,8 @@
     "category": "gold",
     "players": [
       "Тінка",
-      "Е Сю"
+      "Е Сю",
+      "СонНян"
     ],
     "image": "images/oranzhevaya-hrizantema-pion.webp",
     "points": 25,
@@ -620,7 +629,8 @@
       "ЛуЯо",
       "ЛуНина",
       "Асто",
-      "Чжао Лу Сы"
+      "Чжао Лу Сы",
+      "СонНян"
     ],
     "image": "images/padub-mutovchatyi.webp",
     "points": null,
@@ -649,7 +659,8 @@
       "АняРам",
       "Світлана",
       "ЛуНина",
-      "Асто"
+      "Асто",
+      "СонНян"
     ],
     "image": "images/pion-rozovyi-kvarts.webp",
     "points": null,
@@ -764,7 +775,8 @@
       "ЧуСюэ",
       "ЛуНина",
       "Асто",
-      "Чжао Лу Сы"
+      "Чжао Лу Сы",
+      "СонНян"
     ],
     "image": "images/rozovyi-gibiskus.webp",
     "points": null,
@@ -888,7 +900,8 @@
       "Е Сю",
       "Мэй Мэй",
       "Кім Чі",
-      "Асто"
+      "Асто",
+      "СонНян"
     ],
     "image": "images/snezhnyi-lotos-v-tumane.webp",
     "points": null,
@@ -941,7 +954,8 @@
     "players": [
       "Тінка",
       "Ким Мари",
-      "Е Сю"
+      "Е Сю",
+      "СонНян"
     ],
     "image": "images/farforovaya-hrizantema-pion.webp",
     "points": null,
@@ -1003,7 +1017,8 @@
       "АняРам",
       "ЧуСюэ",
       "ЛуНина",
-      "Чжао Лу Сы"
+      "Чжао Лу Сы",
+      "СонНян"
     ],
     "image": "images/hlopkovyi-mishka.webp",
     "points": 23,
@@ -1023,7 +1038,8 @@
     "name": "Цветочное свидание",
     "category": "gold",
     "players": [
-      "Тінка"
+      "Тінка",
+      "СонНян"
     ],
     "image": "images/tsvetochnoe-svidanie.webp",
     "points": null,
@@ -1055,7 +1071,8 @@
     "category": "gold",
     "players": [
       "Тінка",
-      "Avelora"
+      "Avelora",
+      "СонНян"
     ],
     "image": "images/tsvety-daryashchie-vesnu.webp",
     "points": null,
@@ -1087,7 +1104,8 @@
       "Е Сю",
       "Мэй Мэй",
       "Кім Чі",
-      "Асто"
+      "Асто",
+      "СонНян"
     ],
     "image": "images/chernilnaya-sosna.webp",
     "points": null,
@@ -1122,7 +1140,8 @@
       "Тінка",
       "Ким Мари",
       "Е Сю",
-      "Мэй Мэй"
+      "Мэй Мэй",
+      "СонНян"
     ],
     "image": "images/vesti-ot-tsvetov.webp",
     "points": null,
@@ -1186,7 +1205,8 @@
     "category": "purple",
     "players": [
       "Тінка",
-      "Е Сю"
+      "Е Сю",
+      "СонНян"
     ],
     "image": "images/lilovyi-lileinik.webp",
     "points": null,
@@ -1303,7 +1323,8 @@
     "players": [
       "Тінка",
       "ЧуСюэ",
-      "Чжао Лу Сы"
+      "Чжао Лу Сы",
+      "СонНян"
     ],
     "image": "images/zheltyi-onditsium.webp",
     "points": null,
@@ -1403,7 +1424,8 @@
       "Ким Мари",
       "Е Сю",
       "Мэй Мэй",
-      "ЧуСюэ"
+      "ЧуСюэ",
+      "СонНян"
     ],
     "image": "images/rozovyi-antirrinum.webp",
     "points": null,
@@ -1581,7 +1603,8 @@
     "players": [
       "Е Сю",
       "АняРам",
-      "Асто"
+      "Асто",
+      "СонНян"
     ],
     "image": "images/fioletovaya-anemona.webp",
     "points": null,
@@ -1645,7 +1668,8 @@
     "name": "Румяный пион Шаояо",
     "category": "purple",
     "players": [
-      "Кім Чі"
+      "Кім Чі",
+      "СонНян"
     ],
     "image": "images/rumyanyi-pion-shaoyao.webp",
     "points": null,
@@ -1750,7 +1774,8 @@
     "image": "images/lazurnaya-ladya.webp",
     "players": [
       "Тінка",
-      "Е Сю"
+      "Е Сю",
+      "СонНян"
     ],
     "points": 25,
     "upgradedPoints": 50
@@ -1792,7 +1817,8 @@
       "image": "images/rozovyi-travyanistyi-gibiskus.webp",
       "players": [
         "Avelora", 
-        "Тінка"
+        "Тінка",
+        "СонНян"
       ],
       "points": null,
       "upgradedPoints": null
@@ -1812,7 +1838,8 @@
       "category": "purple",
       "image": "images/oranzhevoe-kalanhoe.webp",
       "players": [
-        "Divora"
+        "Divora",
+        "СонНян"
       ],
       "points": null,
       "upgradedPoints": null
