@@ -201,14 +201,14 @@
     "upgradedPoints": null
   },
   {
-    "name": "Вишневый ондициум",
+    "name": "Вишневый онцидиум",
     "category": "purple",
     "players": [
       "Тінка",
       "Ким Мари",
       "ЛуЯо"
     ],
-    "image": "images/vishnevyi-onditsium.webp",
+    "image": "images/vishnevyi-ontsidium.webp",
     "points": null,
     "upgradedPoints": null
   },
@@ -1223,12 +1223,12 @@
     "upgradedPoints": null
   },
   {
-    "name": "Оранжевый ондициум",
+    "name": "Оранжевый онцидиум",
     "category": "purple",
     "players": [
       "Тінка"
     ],
-    "image": "images/oranzhevyi-onditsium.webp",
+    "image": "images/oranzhevyi-ontsidium.webp",
     "points": null,
     "upgradedPoints": null
   },
