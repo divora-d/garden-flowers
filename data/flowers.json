@@ -84,8 +84,8 @@
       "Е Сю"
     ],
     "image": "images/aromatnaya-kletka.webp",
-    "points": null,
-    "upgradedPoints": null
+    "points": 25,
+    "upgradedPoints": 50
   },
   {
     "name": "Белая анемона",
@@ -129,8 +129,8 @@
       "Ким Мари"
     ],
     "image": "images/beloe-chudo.webp",
-    "points": null,
-    "upgradedPoints": null
+    "points": 25,
+    "upgradedPoints": 50
   },
   {
     "name": "Белый клематис",
@@ -209,8 +209,8 @@
       "ЛуЯо"
     ],
     "image": "images/vishnevyi-ontsidium.webp",
-    "points": null,
-    "upgradedPoints": null
+    "points": 23,
+    "upgradedPoints": 46
   },
   {
     "name": "Голубая петуния",
@@ -368,7 +368,8 @@
     "name": "Заревая куркума",
     "category": "purple",
     "players": [
-      "Тінка"
+      "Тінка",
+      "Ким Мари"
     ],
     "image": "images/zarevaya-kurkuma.webp",
     "points": null,
@@ -513,7 +514,8 @@
       "Ким Мари",
       "АняРам",
       "ЧуСюэ",
-      "ЛуНина"
+      "ЛуНина",
+      "Vika"
     ],
     "image": "images/luk-ispolinskii.webp",
     "points": null,
@@ -1062,7 +1064,8 @@
     "name": "Цветущие звезды",
     "category": "purple",
     "players": [
-      "Тінка"
+      "Тінка",
+      "Ким Мари"
     ],
     "image": "images/tsvetushchie-zvezdy.webp",
     "points": null,
@@ -1845,8 +1848,8 @@
     "players": [
       "ЧуСюэ"
     ],
-    "points": null,
-    "upgradedPoints": null
+    "points": 21,
+    "upgradedPoints": 42
   },
   {
     "name": "Оранжевое каланхоэ",
@@ -1854,10 +1857,11 @@
     "image": "images/oranzhevoe-kalanhoe.webp",
     "players": [
       "Divora",
-      "СонНян"
+      "СонНян",
+      "Мэй Мэй"
     ],
-    "points": null,
-    "upgradedPoints": null
+    "points": 21,
+    "upgradedPoints": 42
   },
   {
     "name": "Сиреневый гладиолус",
@@ -1868,5 +1872,21 @@
     ],
     "points": 21,
     "upgradedPoints": 42
-  }
+  },
+  {
+    "name": "Алая протея",
+    "category": "gold",
+    "image": "images/alaya-proteya.webp",
+    "players": ["Тінка"],
+    "points": null,
+    "upgradedPoints": null
+},
+{
+    "name": "Чайная роза на солнце",
+    "category": "gold",
+    "image": "images/chaynaya-roza-na-solntse.webp",
+    "players": ["Тінка"],
+    "points": null,
+    "upgradedPoints": null
+}
 ]
