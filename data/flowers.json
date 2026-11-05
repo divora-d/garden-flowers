@@ -1695,202 +1695,202 @@
   {
     "name": "Оранжевый звездный флокс",
     "category": "purple",
-    "image": "images/oranzhevyi-zvezdnyi-floks.webp",
     "players": [
       "Тінка"
     ],
+    "image": "images/oranzhevyi-zvezdnyi-floks.webp",
     "points": null,
     "upgradedPoints": null
   },
   {
     "name": "Жёлтая роза Бэнкс",
     "category": "purple",
-    "image": "images/zheltaya-roza-benks.webp",
     "players": [
       "ЧуСюэ",
       "ЛуЯо"
     ],
+    "image": "images/zheltaya-roza-benks.webp",
     "points": null,
     "upgradedPoints": null
   },
   {
     "name": "Оранжевая актиния",
     "category": "purple",
-    "image": "images/oranzhevaya-aktiniya.webp",
     "players": [
       "ЧуСюэ",
       "Асто"
     ],
+    "image": "images/oranzhevaya-aktiniya.webp",
     "points": null,
     "upgradedPoints": null
   },
   {
     "name": "Жёлтая энотера",
     "category": "purple",
-    "image": "images/zheltaya-enotera.webp",
     "players": [
       "Divora",
       "МяоШу"
     ],
+    "image": "images/zheltaya-enotera.webp",
     "points": 21,
     "upgradedPoints": 42
   },
   {
     "name": "Фиолетовый стрелолист",
     "category": "purple",
-    "image": "images/fioletovyi-strelolist.webp",
     "players": [
       "ЛуЯо"
     ],
+    "image": "images/fioletovyi-strelolist.webp",
     "points": 23,
     "upgradedPoints": 46
   },
   {
     "name": "Розовый амараллис",
     "category": "purple",
-    "image": "images/rozovyi-amarallis.webp",
     "players": [
       "ЛуЯо"
     ],
+    "image": "images/rozovyi-amarallis.webp",
     "points": 23,
     "upgradedPoints": 46
   },
   {
     "name": "Белый гладиолус",
     "category": "purple",
-    "image": "images/belyi-gladiolus.webp",
     "players": [
       "ЛуЯо"
     ],
+    "image": "images/belyi-gladiolus.webp",
     "points": 21,
     "upgradedPoints": 42
   },
   {
     "name": "Розовая глициния",
     "category": "purple",
-    "image": "images/rozovaya-glitsiniya.webp",
     "players": [
       "ЛуЯо"
     ],
+    "image": "images/rozovaya-glitsiniya.webp",
     "points": null,
     "upgradedPoints": null
   },
   {
     "name": "Лазурная ладья",
     "category": "gold",
-    "image": "images/lazurnaya-ladya.webp",
     "players": [
       "Тінка",
       "Е Сю",
       "СонНян"
     ],
+    "image": "images/lazurnaya-ladya.webp",
     "points": 25,
     "upgradedPoints": 50
   },
   {
     "name": "Розовый шиповник",
     "category": "purple",
-    "image": "images/rozovyi-shipovnik.webp",
     "players": [
       "ЛуНина",
       "ХваЧен"
     ],
+    "image": "images/rozovyi-shipovnik.webp",
     "points": null,
     "upgradedPoints": null
   },
   {
     "name": "Чайная роза на закате",
     "category": "gold",
-    "image": "images/chaynaya-roza-na-zakate.webp",
     "players": [
       "Тінка"
     ],
+    "image": "images/chaynaya-roza-na-zakate.webp",
     "points": 25,
     "upgradedPoints": 50
   },
-    {
+  {
     "name": "Чайная роза на рассвете",
     "category": "gold",
-    "image": "images/chaynaya-roza-na-rassvete.webp",
     "players": [
       "Тінка"
     ],
+    "image": "images/chaynaya-roza-na-rassvete.webp",
     "points": 25,
     "upgradedPoints": 50
   },
   {
     "name": "Сиреневая бабочка",
     "category": "gold",
-    "image": "images/sirenevaya-babochka.webp",
     "players": [
       "Тінка"
     ],
+    "image": "images/sirenevaya-babochka.webp",
     "points": null,
     "upgradedPoints": null
   },
   {
     "name": "Розовый травянистый гибискус",
     "category": "purple",
-    "image": "images/rozovyi-travyanistyi-gibiskus.webp",
     "players": [
       "Avelora",
       "Тінка",
       "СонНян",
       "ЛуНина"
     ],
+    "image": "images/rozovyi-travyanistyi-gibiskus.webp",
     "points": 23,
     "upgradedPoints": 46
   },
   {
     "name": "Жёлтое каланхоэ",
     "category": "purple",
-    "image": "images/zheltoe-kalanhoe.webp",
     "players": [
       "ЧуСюэ"
     ],
+    "image": "images/zheltoe-kalanhoe.webp",
     "points": 21,
     "upgradedPoints": 42
   },
   {
     "name": "Оранжевое каланхоэ",
     "category": "purple",
-    "image": "images/oranzhevoe-kalanhoe.webp",
     "players": [
       "Divora",
       "СонНян",
       "Мэй Мэй"
     ],
+    "image": "images/oranzhevoe-kalanhoe.webp",
     "points": 21,
     "upgradedPoints": 42
   },
   {
     "name": "Сиреневый гладиолус",
     "category": "purple",
-    "image": "images/sirenevyi-gladiolus.webp",
     "players": [
       "СонНян"
     ],
+    "image": "images/sirenevyi-gladiolus.webp",
     "points": 21,
     "upgradedPoints": 42
   },
   {
     "name": "Алая протея",
     "category": "gold",
-    "image": "images/alaya-proteya.webp",
     "players": [
       "Тінка"
     ],
+    "image": "images/alaya-proteya.webp",
     "points": null,
     "upgradedPoints": null
-},
-{
+  },
+  {
     "name": "Чайная роза на солнце",
     "category": "gold",
-    "image": "images/chaynaya-roza-na-solntse.webp",
     "players": [
       "Тінка"
     ],
+    "image": "images/chaynaya-roza-na-solntse.webp",
     "points": 25,
     "upgradedPoints": 50
-}
+  }
 ]
