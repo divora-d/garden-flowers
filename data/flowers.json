@@ -1877,7 +1877,9 @@
     "name": "Алая протея",
     "category": "gold",
     "image": "images/alaya-proteya.webp",
-    "players": ["Тінка"],
+    "players": [
+      "Тінка"
+    ],
     "points": null,
     "upgradedPoints": null
 },
@@ -1885,8 +1887,10 @@
     "name": "Чайная роза на солнце",
     "category": "gold",
     "image": "images/chaynaya-roza-na-solntse.webp",
-    "players": ["Тінка"],
-    "points": null,
-    "upgradedPoints": null
+    "players": [
+      "Тінка"
+    ],
+    "points": 25,
+    "upgradedPoints": 50
 }
 ]
