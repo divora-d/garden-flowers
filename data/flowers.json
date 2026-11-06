@@ -369,7 +369,8 @@
     "category": "purple",
     "players": [
       "Тінка",
-      "Ким Мари"
+      "Ким Мари",
+      "ЛиИюнь"
     ],
     "image": "images/zarevaya-kurkuma.webp",
     "points": null,
@@ -706,6 +707,16 @@
       "Тінка"
     ],
     "image": "images/roz-gibiskus-v-lartse.webp",
+    "points": 25,
+    "upgradedPoints": 50
+  },
+    {
+    "name": "Оранж. гибискус в ларце",
+    "category": "gold",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/oranzh-gibiskus-v-lartse.webp",
     "points": 25,
     "upgradedPoints": 50
   },
@@ -1547,7 +1558,8 @@
     "category": "purple",
     "players": [
       "Ким Мари",
-      "Асто"
+      "Асто",
+      "Акерке"
     ],
     "image": "images/oranzhevyi-korall.webp",
     "points": null,
