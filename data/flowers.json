@@ -161,7 +161,7 @@
       "Divora",
       "Avelora",
       "Vika",
-      "Хва Чен",
+      "ХваЧен",
       "Світлана",
       "ЛуЯо",
       "ЛуНина"
@@ -224,7 +224,7 @@
       "Vika",
       "Мэй Мэй",
       "Кім Чі",
-      "Хва Чен",
+      "ХваЧен",
       "АняРам",
       "ЧуСюэ",
       "ЛуНина",
@@ -271,7 +271,7 @@
       "Ким Мари",
       "Е Сю",
       "Мэй Мэй",
-      "Хва Чен",
+      "ХваЧен",
       "ЧуСюэ",
       "ЛуНина"
     ],
@@ -346,7 +346,8 @@
       "Е Сю",
       "Мэй Мэй",
       "Кім Чі",
-      "Divora"
+      "Divora",
+      "Avelora"
     ],
     "image": "images/zhemchuzhnaya-magnoliya.webp",
     "points": null,
@@ -407,7 +408,8 @@
     "players": [
       "Мэй Мэй",
       "Avelora",
-      "Кім Чі"
+      "Кім Чі",
+      "ЖунНиу"
     ],
     "image": "images/zolotistyi-osmantus.webp",
     "points": 21,
@@ -447,7 +449,8 @@
       "Ким Мари",
       "Мэй Мэй",
       "Кім Чі",
-      "ЧуСюэ"
+      "ЧуСюэ",
+      "ХваЧен"
     ],
     "image": "images/lazurnaya-enotera.webp",
     "points": 21,
@@ -575,7 +578,7 @@
       "Divora",
       "Avelora",
       "Ким Мари",
-      "Хва Чен",
+      "ХваЧен",
       "Чжао Лу Сы"
     ],
     "image": "images/ognennaya-orhideya.webp",
@@ -627,7 +630,7 @@
       "Vika",
       "Мэй Мэй",
       "Кім Чі",
-      "Хва Чен",
+      "ХваЧен",
       "АняРам",
       "ЧуСюэ",
       "ЛуЯо",
@@ -785,7 +788,7 @@
       "Vika",
       "Мэй Мэй",
       "Кім Чі",
-      "Хва Чен",
+      "ХваЧен",
       "ЧуСюэ",
       "ЛуНина",
       "Асто",
@@ -926,7 +929,9 @@
     "name": "Сумеречная аквилегия",
     "category": "purple",
     "players": [
-      "Тінка"
+      "Тінка",
+      "ЛиИюнь",
+      "Чжао Лу Сы"
     ],
     "image": "images/sumerechnaya-akvilegiya.webp",
     "points": 23,
@@ -1351,9 +1356,8 @@
     "category": "purple",
     "players": [
       "Тінка",
-      "Хва Чен",
-      "ЧуСюэ",
-      "ЛуЯо"
+      "ХваЧен",
+      "ЧуСюэ"
     ],
     "image": "images/persikovyi-georgin.webp",
     "points": null,
@@ -1533,7 +1537,8 @@
       "Е Сю",
       "Кім Чі",
       "АняРам",
-      "Асто"
+      "Асто",
+      "ЛиИюнь"
     ],
     "image": "images/oblachnyi-pion-shaoyao.webp",
     "points": 21,
@@ -1559,7 +1564,8 @@
     "players": [
       "Ким Мари",
       "Асто",
-      "Акерке"
+      "Акерке",
+      "ХваЧен"
     ],
     "image": "images/oranzhevyi-korall.webp",
     "points": null,
@@ -1718,8 +1724,7 @@
     "name": "Жёлтая роза Бэнкс",
     "category": "purple",
     "players": [
-      "ЧуСюэ",
-      "ЛуЯо"
+      "ЧуСюэ"
     ],
     "image": "images/zheltaya-roza-benks.webp",
     "points": null,
@@ -1746,16 +1751,6 @@
     "image": "images/zheltaya-enotera.webp",
     "points": 21,
     "upgradedPoints": 42
-  },
-  {
-    "name": "Фиолетовый стрелолист",
-    "category": "purple",
-    "players": [
-      "ЛуЯо"
-    ],
-    "image": "images/fioletovyi-strelolist.webp",
-    "points": 23,
-    "upgradedPoints": 46
   },
   {
     "name": "Розовый амараллис",
@@ -1834,7 +1829,9 @@
     "name": "Сиреневая бабочка",
     "category": "gold",
     "players": [
-      "Тінка"
+      "Тінка",
+      "Avelora",
+      "СонНян"
     ],
     "image": "images/sirenevaya-babochka.webp",
     "points": null,
@@ -1857,7 +1854,9 @@
     "name": "Жёлтое каланхоэ",
     "category": "purple",
     "players": [
-      "ЧуСюэ"
+      "ЧуСюэ",
+      "Divora",
+      "Мэй Мэй"
     ],
     "image": "images/zheltoe-kalanhoe.webp",
     "points": 21,
@@ -1879,7 +1878,8 @@
     "name": "Сиреневый гладиолус",
     "category": "purple",
     "players": [
-      "СонНян"
+      "СонНян",
+      "Avelora"
     ],
     "image": "images/sirenevyi-gladiolus.webp",
     "points": 21,
@@ -1904,5 +1904,58 @@
     "image": "images/chaynaya-roza-na-solntse.webp",
     "points": 25,
     "upgradedPoints": 50
+  },
+  {
+    "name": "Жёлтый гладиолус",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/zheltyi-gladiolus.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Душистое саше",
+    "category": "gold",
+    "players": [
+      "Ким Мари"
+    ],
+    "image": "images/dushistoe-sashe.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Ледяное лакомство",
+    "category": "gold",
+    "players": [
+      "Avelora",
+      "Тінка"
+    ],
+    "image": "images/ledyanoe-lakomstvo.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Золотая ладья",
+    "category": "gold",
+    "players": [
+      "СонНян",
+      "Тінка",
+      "ЛиИюнь"
+    ],
+    "image": "images/zolotaya-ladya.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+  {
+    "name": "Цветущий переулок",
+    "category": "red",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/tsvetushchiy-pereulok.webp",
+    "points": null,
+    "upgradedPoints": null
   }
 ]
