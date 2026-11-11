@@ -105,7 +105,8 @@
     "players": [
       "Тінка",
       "Кім Чі",
-      "СонНян"
+      "СонНян",
+      "Світлана"
     ],
     "image": "images/belaya-leviziya.webp",
     "points": 21,
@@ -163,7 +164,6 @@
       "Vika",
       "ХваЧен",
       "Світлана",
-      "ЛуЯо",
       "ЛуНина"
     ],
     "image": "images/brunfelsiya.webp",
@@ -205,8 +205,7 @@
     "category": "purple",
     "players": [
       "Тінка",
-      "Ким Мари",
-      "ЛуЯо"
+      "Ким Мари"
     ],
     "image": "images/vishnevyi-ontsidium.webp",
     "points": 23,
@@ -463,8 +462,7 @@
       "Тінка",
       "Е Сю",
       "Мэй Мэй",
-      "Ким Мари",
-      "ЛуЯо"
+      "Ким Мари"
     ],
     "image": "images/lazurnyi-koral.webp",
     "points": 23,
@@ -563,8 +561,7 @@
     "name": "Облачно-белый клеродендрум",
     "category": "purple",
     "players": [
-      "Е Сю",
-      "ЛуЯо"
+      "Е Сю"
     ],
     "image": "images/oblachno-belyi-klerodendrum.webp",
     "points": null,
@@ -633,7 +630,6 @@
       "ХваЧен",
       "АняРам",
       "ЧуСюэ",
-      "ЛуЯо",
       "ЛуНина",
       "Асто",
       "Чжао Лу Сы",
@@ -1753,36 +1749,6 @@
     "upgradedPoints": 42
   },
   {
-    "name": "Розовый амараллис",
-    "category": "purple",
-    "players": [
-      "ЛуЯо"
-    ],
-    "image": "images/rozovyi-amarallis.webp",
-    "points": 23,
-    "upgradedPoints": 46
-  },
-  {
-    "name": "Белый гладиолус",
-    "category": "purple",
-    "players": [
-      "ЛуЯо"
-    ],
-    "image": "images/belyi-gladiolus.webp",
-    "points": 21,
-    "upgradedPoints": 42
-  },
-  {
-    "name": "Розовая глициния",
-    "category": "purple",
-    "players": [
-      "ЛуЯо"
-    ],
-    "image": "images/rozovaya-glitsiniya.webp",
-    "points": null,
-    "upgradedPoints": null
-  },
-  {
     "name": "Лазурная ладья",
     "category": "gold",
     "players": [
@@ -1919,7 +1885,8 @@
     "name": "Душистое саше",
     "category": "gold",
     "players": [
-      "Ким Мари"
+      "Ким Мари",
+      "Е Сю"
     ],
     "image": "images/dushistoe-sashe.webp",
     "points": null,
@@ -1930,7 +1897,8 @@
     "category": "gold",
     "players": [
       "Avelora",
-      "Тінка"
+      "Тінка",
+      "Е Сю"
     ],
     "image": "images/ledyanoe-lakomstvo.webp",
     "points": null,
@@ -1955,6 +1923,16 @@
       "Тінка"
     ],
     "image": "images/tsvetushchiy-pereulok.webp",
+    "points": null,
+    "upgradedPoints": null
+  },
+    {
+    "name": "Ручей в цвету",
+    "category": "red",
+    "players": [
+      "Е Сю"
+    ],
+    "image": "images/ruchey-v-tsvetu.webp",
     "points": null,
     "upgradedPoints": null
   }
