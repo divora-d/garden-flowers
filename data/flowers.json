@@ -2062,5 +2062,49 @@
     "points": null,
     "upgradedPoints": null,
     "active": true
+  },
+  {
+    "name": "Фиолетовый стрелолист",
+    "category": "purple",
+    "players": [
+
+    ],
+    "image": "images/fioletovyi-strelolist.webp",
+    "points": 23,
+    "upgradedPoints": 46,
+    "active": false
+  },
+  {
+    "name": "Розовая глициния",
+    "category": "purple",
+    "players": [
+
+    ],
+    "image": "images/rozovaya-glitsiniya.webp",
+    "points": null,
+    "upgradedPoints": null,
+    "active": false
+  },
+  {
+    "name": "Белый гладиолус",
+    "category": "purple",
+    "players": [
+
+    ],
+    "image": "images/belyi-gladiolus.webp",
+    "points": 21,
+    "upgradedPoints": 42,
+    "active": false
+  },
+  {
+    "name": "Розовый амараллис",
+    "category": "purple",
+    "players": [
+      
+    ],
+    "image": "images/rozovyi-amarallis.webp",
+    "points": 23,
+    "upgradedPoints": 46,
+    "active": false
   }
 ]
