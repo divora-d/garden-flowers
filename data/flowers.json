@@ -36,7 +36,8 @@
       "Vika",
       "Мэй Мэй",
       "Кім Чі",
-      "ЧуСюэ"
+      "ЧуСюэ",
+      "ЖунНиу"
     ],
     "image": "images/alyi-himonant.webp",
     "points": null,
@@ -113,7 +114,8 @@
       "Кім Чі",
       "СонНян",
       "Світлана",
-      "Vika"
+      "Vika",
+      "ЖунНиу"
     ],
     "image": "images/belaya-leviziya.webp",
     "points": 21,
@@ -207,7 +209,8 @@
       "Кім Чі",
       "ЧуСюэ",
       "ЛуНина",
-      "СонНян"
+      "СонНян",
+      "ЛиИюнь"
     ],
     "image": "images/vifleemskaya-zvezda.webp",
     "points": null,
@@ -243,7 +246,9 @@
       "ЛуНина",
       "Асто",
       "Чжао Лу Сы",
-      "СонНян"
+      "СонНян",
+      "ЖунНиу",
+      "ЛиИюнь"
     ],
     "image": "images/golubaya-petuniya.webp",
     "points": null,
@@ -258,7 +263,8 @@
       "Кім Чі",
       "ЧуСюэ",
       "ЛэйНин",
-      "Чжао Лу Сы"
+      "Чжао Лу Сы",
+      "ЖунНиу"
     ],
     "image": "images/goluboi-mekonopsis.webp",
     "points": null,
@@ -407,7 +413,8 @@
       "Divora",
       "Е Сю",
       "Мэй Мэй",
-      "ЧуСюэ"
+      "ЧуСюэ",
+      "ЖунНиу"
     ],
     "image": "images/zvezdy-v-lepestkah.webp",
     "points": null,
@@ -446,7 +453,8 @@
       "Ким Мари",
       "Е Сю",
       "Мэй Мэй",
-      "СонНян"
+      "СонНян",
+      "ЛиИюнь"
     ],
     "image": "images/izumrudnyi-lileinik.webp",
     "points": 23,
@@ -475,7 +483,8 @@
       "Мэй Мэй",
       "Кім Чі",
       "ЧуСюэ",
-      "ХваЧен"
+      "ХваЧен",
+      "ЖунНиу"
     ],
     "image": "images/lazurnaya-enotera.webp",
     "points": 21,
@@ -529,7 +538,8 @@
       "Мэй Мэй",
       "Кім Чі",
       "ЧуСюэ",
-      "СонНян"
+      "СонНян",
+      "ЛиИюнь"
     ],
     "image": "images/likoris.webp",
     "points": null,
@@ -622,7 +632,8 @@
       "ХваЧен",
       "Чжао Лу Сы",
       "Vika",
-      "ЛуНина"
+      "ЛуНина",
+      "ЛиИюнь"
     ],
     "image": "images/ognennaya-orhideya.webp",
     "points": null,
@@ -682,7 +693,9 @@
       "ЛуНина",
       "Асто",
       "Чжао Лу Сы",
-      "СонНян"
+      "СонНян",
+      "ЖунНиу",
+      "ЛиИюнь"
     ],
     "image": "images/padub-mutovchatyi.webp",
     "points": null,
@@ -797,7 +810,8 @@
       "Мэй Мэй",
       "Кім Чі",
       "Divora",
-      "ЧуСюэ"
+      "ЧуСюэ",
+      "ЖунНиу"
     ],
     "image": "images/roza-shampan.webp",
     "points": null,
@@ -813,7 +827,8 @@
       "Мэй Мэй",
       "АняРам",
       "ЧуСюэ",
-      "Тінка"
+      "Тінка",
+      "ЖунНиу"
     ],
     "image": "images/rozovaya-enotera.webp",
     "points": 21,
@@ -847,7 +862,8 @@
       "ЛуНина",
       "Асто",
       "Чжао Лу Сы",
-      "СонНян"
+      "СонНян",
+      "ЖунНиу"
     ],
     "image": "images/rozovyi-gibiskus.webp",
     "points": null,
@@ -978,7 +994,8 @@
       "Мэй Мэй",
       "Кім Чі",
       "Асто",
-      "СонНян"
+      "СонНян",
+      "ЛиИюнь"
     ],
     "image": "images/snezhnyi-lotos-v-tumane.webp",
     "points": null,
@@ -1107,7 +1124,8 @@
       "ЧуСюэ",
       "ЛуНина",
       "Чжао Лу Сы",
-      "СонНян"
+      "СонНян",
+      "ЛиИюнь"
     ],
     "image": "images/hlopkovyi-mishka.webp",
     "points": 23,
@@ -1200,7 +1218,8 @@
       "Мэй Мэй",
       "Кім Чі",
       "Асто",
-      "СонНян"
+      "СонНян",
+      "ЖунНиу"
     ],
     "image": "images/chernilnaya-sosna.webp",
     "points": null,
@@ -1214,7 +1233,8 @@
       "Divora",
       "Мэй Мэй",
       "ЧуСюэ",
-      "Кім Чі"
+      "Кім Чі",
+      "ЖунНиу"
     ],
     "image": "images/zolotisto-belyi-iris.webp",
     "points": 21,
@@ -1240,7 +1260,8 @@
       "Ким Мари",
       "Е Сю",
       "Мэй Мэй",
-      "СонНян"
+      "СонНян",
+      "ЛиИюнь"
     ],
     "image": "images/vesti-ot-tsvetov.webp",
     "points": null,
@@ -1286,7 +1307,8 @@
     "players": [
       "Тінка",
       "ЧуСюэ",
-      "Чжао Лу Сы"
+      "Чжао Лу Сы",
+      "ЖунНиу"
     ],
     "image": "images/temnyi-georgin.webp",
     "points": null,
@@ -1441,7 +1463,8 @@
       "Тінка",
       "ЧуСюэ",
       "Чжао Лу Сы",
-      "СонНян"
+      "СонНян",
+      "ЖунНиу"
     ],
     "image": "images/zheltyi-ontsidium.webp",
     "points": null,
@@ -1704,7 +1727,8 @@
       "Divora",
       "Ким Мари",
       "ЧуСюэ",
-      "Тінка"
+      "Тінка",
+      "ЛиИюнь"
     ],
     "image": "images/fioletovyi-delfinium.webp",
     "points": null,
@@ -1730,7 +1754,8 @@
     "players": [
       "Ким Мари",
       "Е Сю",
-      "Асто"
+      "Асто",
+      "ЖунНиу"
     ],
     "image": "images/puntsovaya-aktiniya.webp",
     "points": null,
@@ -1791,7 +1816,8 @@
     "name": "Темно-красный морозник",
     "category": "purple",
     "players": [
-      "Мэй Мэй"
+      "Мэй Мэй",
+      "ЖунНиу"
     ],
     "image": "images/temno-krasnyi-moroznik.webp",
     "points": null,
@@ -1940,7 +1966,8 @@
       "СонНян",
       "ЛуНина",
       "Світлана",
-      "ЧуСюэ"
+      "ЧуСюэ",
+      "ЛиИюнь"
     ],
     "image": "images/sirenevaya-babochka.webp",
     "points": null,
