@@ -110,6 +110,8 @@ function renderFlowers() {
     const hasMinPointsFilter = minPointsValue !== "";
     const minPoints = Number(minPointsValue);
 
+    const matchesActive = flower.active !== false;
+
     const filteredFlowers = flowers
         .filter((flower) => {
             const matchesCategory =
@@ -134,12 +136,13 @@ function renderFlowers() {
                     flower.points >= minPoints
                 );
 
-            return (
-                matchesCategory &&
-                matchesSearch &&
-                matchesPlayer &&
-                matchesMinPoints
-            );
+                return (
+                    matchesActive &&
+                    matchesCategory &&
+                    matchesSearch &&
+                    matchesPlayer &&
+                    matchesMinPoints
+                );
         })
         .sort((a, b) => a.name.localeCompare(b.name, "ru"));
 
