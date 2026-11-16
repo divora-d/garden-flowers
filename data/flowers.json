@@ -112,7 +112,8 @@
       "Тінка",
       "Кім Чі",
       "СонНян",
-      "Світлана"
+      "Світлана",
+      "Vika"
     ],
     "image": "images/belaya-leviziya.webp",
     "points": 21,
@@ -147,7 +148,8 @@
     "category": "purple",
     "players": [
       "Тінка",
-      "Ким Мари"
+      "Ким Мари",
+      "Vika"
     ],
     "image": "images/belyi-klematis.webp",
     "points": null,
@@ -599,6 +601,17 @@
     "upgradedPoints": null,
     "active": true
   },
+    {
+    "name": "Радужно-розовый клеродендрум",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/raduzhno-rozovii-klerodendrum.webp",
+    "points": null,
+    "upgradedPoints": null,
+    "active": true
+  },
   {
     "name": "Огненная орхидея",
     "category": "purple",
@@ -608,7 +621,8 @@
       "Ким Мари",
       "ХваЧен",
       "Чжао Лу Сы",
-      "Vika"
+      "Vika",
+      "ЛуНина"
     ],
     "image": "images/ognennaya-orhideya.webp",
     "points": null,
@@ -679,7 +693,8 @@
     "name": "Персиковая рябь",
     "category": "gold",
     "players": [
-      "Тінка"
+      "Тінка",
+      "ЧуСюэ"
     ],
     "image": "images/persikovaya-ryab.webp",
     "points": null,
@@ -1035,7 +1050,8 @@
     "name": "Фиолетовая китайская гвоздика",
     "category": "purple",
     "players": [
-      "Е Сю"
+      "Е Сю",
+      "Тінка"
     ],
     "image": "images/fioletovaya-kitaiskaya-gvozdika.webp",
     "points": null,
@@ -1197,7 +1213,8 @@
     "players": [
       "Divora",
       "Мэй Мэй",
-      "ЧуСюэ"
+      "ЧуСюэ",
+      "Кім Чі"
     ],
     "image": "images/zolotisto-belyi-iris.webp",
     "points": 21,
@@ -1316,7 +1333,8 @@
     "name": "Оранжевый онцидиум",
     "category": "purple",
     "players": [
-      "Тінка"
+      "Тінка",
+      "ЧуСюэ"
     ],
     "image": "images/oranzhevyi-ontsidium.webp",
     "points": null,
@@ -1618,7 +1636,7 @@
     "image": "images/bumazhnyi-zmei-vstrechaet-vesnu.webp",
     "points": null,
     "upgradedPoints": null,
-    "active": true
+    "active": false
   },
   {
     "name": "Облачный пион Шаояо",
@@ -1644,7 +1662,8 @@
       "Е Сю",
       "Кім Чі",
       "АняРам",
-      "Асто"
+      "Асто",
+      "ЧуСюэ"
     ],
     "image": "images/rozovaya-anemona.webp",
     "points": 21,
@@ -1725,7 +1744,8 @@
       "Е Сю",
       "АняРам",
       "Асто",
-      "СонНян"
+      "СонНян",
+      "Чжао Лу Сы"
     ],
     "image": "images/fioletovaya-anemona.webp",
     "points": 21,
@@ -1759,7 +1779,8 @@
     "category": "purple",
     "players": [
       "Мэй Мэй",
-      "Кім Чі"
+      "Кім Чі",
+      "ЧуСюэ"
     ],
     "image": "images/kinovarnyi-osmantus.webp",
     "points": 21,
@@ -1770,8 +1791,7 @@
     "name": "Темно-красный морозник",
     "category": "purple",
     "players": [
-      "Мэй Мэй",
-      "ValensiYa"
+      "Мэй Мэй"
     ],
     "image": "images/temno-krasnyi-moroznik.webp",
     "points": null,
@@ -1797,7 +1817,9 @@
     "category": "purple",
     "players": [
       "Кім Чі",
-      "СонНян"
+      "СонНян",
+      "АняРам",
+      "Чжао Лу Сы"
     ],
     "image": "images/rumyanyi-pion-shaoyao.webp",
     "points": null,
@@ -1808,7 +1830,8 @@
     "name": "Розовый морозник",
     "category": "purple",
     "players": [
-      "Кім Чі"
+      "Кім Чі",
+      "Тінка"
     ],
     "image": "images/rozovyi-moroznik.webp",
     "points": 23,
@@ -1879,7 +1902,8 @@
     "category": "purple",
     "players": [
       "ЛуНина",
-      "ХваЧен"
+      "ХваЧен",
+      "Чжао Лу Сы"
     ],
     "image": "images/rozovyi-shipovnik.webp",
     "points": null,
@@ -1913,7 +1937,10 @@
     "category": "gold",
     "players": [
       "Тінка",
-      "СонНян"
+      "СонНян",
+      "ЛуНина",
+      "Світлана",
+      "ЧуСюэ"
     ],
     "image": "images/sirenevaya-babochka.webp",
     "points": null,
@@ -2021,7 +2048,9 @@
     "category": "gold",
     "players": [
       "Тінка",
-      "Е Сю"
+      "Е Сю",
+      "Алефтина",
+      "ЧуСюэ"
     ],
     "image": "images/ledyanoe-lakomstvo.webp",
     "points": null,
@@ -2056,7 +2085,8 @@
     "name": "Ручей в цвету",
     "category": "red",
     "players": [
-      "Е Сю"
+      "Е Сю",
+      "Тінка"
     ],
     "image": "images/ruchey-v-tsvetu.webp",
     "points": null,
@@ -2100,11 +2130,33 @@
     "name": "Розовый амараллис",
     "category": "purple",
     "players": [
-      
+      "ЧуСюэ"
     ],
     "image": "images/rozovyi-amarallis.webp",
     "points": 23,
     "upgradedPoints": 46,
-    "active": false
+    "active": true
+  },
+    {
+    "name": "Абрикосовая весна",
+    "category": "gold",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/abrikosovaya-vesna.webp",
+    "points": null,
+    "upgradedPoints": null,
+    "active": true
+  },
+  {
+    "name": "Алый травянистый гибискус",
+    "category": "purple",
+    "players": [
+      "СонНян"
+    ],
+    "image": "images/alyi-travyanistyi-gibiskus.webp",
+    "points": null,
+    "upgradedPoints": null,
+    "active": true
   }
 ]
