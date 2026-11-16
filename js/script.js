@@ -110,13 +110,13 @@ function renderFlowers() {
     const hasMinPointsFilter = minPointsValue !== "";
     const minPoints = Number(minPointsValue);
 
-    const matchesActive = flower.active !== false;
-
     const filteredFlowers = flowers
         .filter((flower) => {
             const matchesCategory =
                 currentCategory === "all" ||
                 flower.category === currentCategory;
+
+            const matchesActive = flower.active !== false;
 
             const normalizedFlowerName = flower.name
                 .toLowerCase()
