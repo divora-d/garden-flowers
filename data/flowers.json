@@ -248,7 +248,8 @@
       "Чжао Лу Сы",
       "СонНян",
       "ЖунНиу",
-      "ЛиИюнь"
+      "ЛиИюнь",
+      "МЕЛКИЙ"
     ],
     "image": "images/golubaya-petuniya.webp",
     "points": null,
@@ -695,7 +696,8 @@
       "Чжао Лу Сы",
       "СонНян",
       "ЖунНиу",
-      "ЛиИюнь"
+      "ЛиИюнь",
+      "МЕЛКИЙ"
     ],
     "image": "images/padub-mutovchatyi.webp",
     "points": null,
@@ -863,7 +865,8 @@
       "Асто",
       "Чжао Лу Сы",
       "СонНян",
-      "ЖунНиу"
+      "ЖунНиу",
+      "МЕЛКИЙ"
     ],
     "image": "images/rozovyi-gibiskus.webp",
     "points": null,
@@ -1126,7 +1129,8 @@
       "ЛуНина",
       "Чжао Лу Сы",
       "СонНян",
-      "ЛиИюнь"
+      "ЛиИюнь",
+      "МЕЛКИЙ"
     ],
     "image": "images/hlopkovyi-mishka.webp",
     "points": 23,
@@ -1642,6 +1646,17 @@
     "active": true
   },
   {
+    "name": "Оранжевый лютик",
+    "category": "purple",
+    "players": [
+      "АняРам"
+    ],
+    "image": "images/oranzhevyi-lyutik.webp",
+    "points": null,
+    "upgradedPoints": null,
+    "active": true
+  },
+  {
     "name": "Жёлтая левизия",
     "category": "purple",
     "players": [
@@ -1969,7 +1984,8 @@
       "Світлана",
       "ЧуСюэ",
       "ЛиИюнь",
-      "Кім Чі"
+      "Кім Чі",
+      "АняРам"
     ],
     "image": "images/sirenevaya-babochka.webp",
     "points": null,
@@ -2182,7 +2198,8 @@
     "category": "purple",
     "players": [
       "СонНян",
-      "Vika"
+      "Vika",
+      "МЕЛКИЙ"
     ],
     "image": "images/alyi-travyanistyi-gibiskus.webp",
     "points": null,
