@@ -2213,6 +2213,17 @@
     "upgradedPoints": 46,
     "active": false
   },
+    {
+    "name": "Нежно-белый стрелолист",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/nezhno-belyi-strelolist.webp",
+    "points": 23,
+    "upgradedPoints": 46,
+    "active": true
+  },
   {
     "name": "Розовая глициния",
     "category": "purple",
