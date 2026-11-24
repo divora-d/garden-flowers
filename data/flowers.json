@@ -41,8 +41,8 @@
       "Світлана"
     ],
     "image": "images/alyi-himonant.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 21,
+    "upgradedPoints": 42,
     "active": true
   },
   {
@@ -67,8 +67,8 @@
       "СонНян"
     ],
     "image": "images/aromat-magnolii.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 25,
+    "upgradedPoints": 50,
     "active": true
   },
   {
@@ -155,8 +155,8 @@
       "Vika"
     ],
     "image": "images/belyi-klematis.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -369,8 +369,8 @@
       "Тінка"
     ],
     "image": "images/zheltyi-himonant.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 25,
+    "upgradedPoints": 50,
     "active": true
   },
   {
@@ -412,8 +412,8 @@
       "Чжао Лу Сы"
     ],
     "image": "images/zarevaya-kurkuma.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -428,8 +428,8 @@
       "Avelora"
     ],
     "image": "images/zvezdy-v-lepestkah.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 28,
+    "upgradedPoints": 56,
     "active": true
   },
   {
@@ -439,8 +439,8 @@
       "Тінка"
     ],
     "image": "images/zelenyi-tsimbidium.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -538,8 +538,8 @@
       "Тінка"
     ],
     "image": "images/led-tanets-roz-i-babochek.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 25,
+    "upgradedPoints": 50,
     "active": true
   },
   {
@@ -763,8 +763,8 @@
       "Тінка"
     ],
     "image": "images/plamennyi-amarallis.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -819,8 +819,8 @@
       "Тінка"
     ],
     "image": "images/roz-tanets-roz-i-babochek.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 25,
+    "upgradedPoints": 50,
     "active": true
   },
   {
@@ -1000,8 +1000,8 @@
       "Мэй Мэй"
     ],
     "image": "images/sinee-plamya.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 25,
+    "upgradedPoints": 50,
     "active": true
   },
   {
@@ -1058,8 +1058,8 @@
       "Тінка"
     ],
     "image": "images/suzhouskii-dozhd.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 25,
+    "upgradedPoints": 50,
     "active": true
   },
   {
@@ -1069,8 +1069,8 @@
       "Тінка"
     ],
     "image": "images/tanets-lepestkov.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 25,
+    "upgradedPoints": 50,
     "active": true
   },
   {
@@ -1118,8 +1118,8 @@
       "Тінка"
     ],
     "image": "images/fioletovaya-kosmeye.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -1141,8 +1141,8 @@
       "Ким Мари"
     ],
     "image": "images/fioletovaya-eihorniya.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -1190,8 +1190,8 @@
       "СонНян"
     ],
     "image": "images/tsvetochnoe-svidanie.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 25,
+    "upgradedPoints": 50,
     "active": true
   },
   {
@@ -1228,8 +1228,8 @@
       "Avelora"
     ],
     "image": "images/tsvety-daryashchie-vesnu.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 25,
+    "upgradedPoints": 50,
     "active": true
   },
   {
@@ -1468,8 +1468,8 @@
       "Тінка"
     ],
     "image": "images/rozovaya-spireya.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -1480,8 +1480,8 @@
       "Кім Чі"
     ],
     "image": "images/rozovaya-kosmeya.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -1566,8 +1566,8 @@
       "Тінка"
     ],
     "image": "images/serebristaya-spireya.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -1577,8 +1577,8 @@
       "Тінка"
     ],
     "image": "images/rozovaya-begoniya.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -1601,8 +1601,8 @@
       "Тінка"
     ],
     "image": "images/lunnoe-mertsanie.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -1695,8 +1695,8 @@
       "АняРам"
     ],
     "image": "images/rozovyi-lyutik.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -1707,8 +1707,8 @@
       "Тінка"
     ],
     "image": "images/oranzhevyi-lyutik.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -1778,8 +1778,8 @@
       "ХваЧен"
     ],
     "image": "images/oranzhevyi-korall.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 21,
+    "upgradedPoints": 42,
     "active": true
   },
   {
@@ -1791,8 +1791,8 @@
       "Асто"
     ],
     "image": "images/rozovyi-korall.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 21,
+    "upgradedPoints": 42,
     "active": true
   },
   {
@@ -1832,8 +1832,8 @@
       "Асто"
     ],
     "image": "images/puntsovaya-aktiniya.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 21,
+    "upgradedPoints": 42,
     "active": true
   },
   {
@@ -1895,8 +1895,8 @@
       "СонНян"
     ],
     "image": "images/temno-krasnyi-moroznik.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 21,
+    "upgradedPoints": 42,
     "active": true
   },
   {
@@ -1909,8 +1909,8 @@
       "Кім Чі"
     ],
     "image": "images/zheltyi-moroznik.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 21,
+    "upgradedPoints": 42,
     "active": true
   },
   {
@@ -2176,8 +2176,8 @@
       "Тінка"
     ],
     "image": "images/dushistoe-sashe.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 25,
+    "upgradedPoints": 50,
     "active": true
   },
   {
