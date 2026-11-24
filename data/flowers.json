@@ -217,8 +217,8 @@
       "Avelora"
     ],
     "image": "images/vifleemskaya-zvezda.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -304,8 +304,8 @@
       "Avelora"
     ],
     "image": "images/durman.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 21,
+    "upgradedPoints": 42,
     "active": true
   },
   {
@@ -329,8 +329,8 @@
       "Мэй Мэй"
     ],
     "image": "images/zheltaya-skabioza.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -358,8 +358,8 @@
       "Асто"
     ],
     "image": "images/zheltyi-mekonopsis.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 21,
+    "upgradedPoints": 42,
     "active": true
   },
   {
@@ -557,8 +557,8 @@
       "Avelora"
     ],
     "image": "images/likoris.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -586,8 +586,8 @@
       "Тінка"
     ],
     "image": "images/lunnaya-kletka.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 25,
+    "upgradedPoints": 50,
     "active": true
   },
   {
@@ -934,8 +934,8 @@
       "Чжао Лу Сы"
     ],
     "image": "images/rozovyi-pion-shaoyao.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -1178,8 +1178,8 @@
       "Кім Чі"
     ],
     "image": "images/tsvetok-pamyati.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 28,
+    "upgradedPoints": 56,
     "active": true
   },
   {
@@ -1305,8 +1305,8 @@
       "ЛиИюнь"
     ],
     "image": "images/vesti-ot-tsvetov.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 25,
+    "upgradedPoints": 50,
     "active": true
   },
   {
@@ -1618,8 +1618,8 @@
       "Avelora"
     ],
     "image": "images/rozovyi-antirrinum.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
     {
@@ -1632,8 +1632,8 @@
       "ЛуНина"
     ],
     "image": "images/fioletovyi-antirrinum.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -1731,8 +1731,8 @@
       "ЧуСюэ"
     ],
     "image": "images/bumazhnyi-zmei-vstrechaet-vesnu.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 25,
+    "upgradedPoints": 50,
     "active": true
   },
   {
@@ -1869,8 +1869,8 @@
       "Е Сю"
     ],
     "image": "images/svetlo-alyi-strelolist.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -1923,8 +1923,8 @@
       "Чжао Лу Сы"
     ],
     "image": "images/rumyanyi-pion-shaoyao.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -2053,8 +2053,8 @@
       "Асто"
     ],
     "image": "images/sirenevaya-babochka.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 25,
+    "upgradedPoints": 50,
     "active": true
   },
   {
