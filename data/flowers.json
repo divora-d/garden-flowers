@@ -37,8 +37,8 @@
       "Мэй Мэй",
       "Кім Чі",
       "ЧуСюэ",
-      "ЖунНиу",
-      "Avelora"
+      "Avelora",
+      "Світлана"
     ],
     "image": "images/alyi-himonant.webp",
     "points": null,
@@ -116,7 +116,6 @@
       "СонНян",
       "Світлана",
       "Vika",
-      "ЖунНиу",
       "ЧуСюэ"
     ],
     "image": "images/belaya-leviziya.webp",
@@ -197,8 +196,8 @@
       "Кім Чі"
     ],
     "image": "images/oranzhevaya-verbena.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -252,10 +251,10 @@
       "Асто",
       "Чжао Лу Сы",
       "СонНян",
-      "ЖунНиу",
       "ЛиИюнь",
       "МЕЛКИЙ",
-      "Avelora"
+      "Avelora",
+      "Світлана"
     ],
     "image": "images/golubaya-petuniya.webp",
     "points": null,
@@ -271,7 +270,7 @@
       "ЧуСюэ",
       "ЛэйНин",
       "Чжао Лу Сы",
-      "ЖунНиу"
+      "Світлана"
     ],
     "image": "images/goluboi-mekonopsis.webp",
     "points": null,
@@ -355,7 +354,8 @@
     "players": [
       "Тінка",
       "Кім Чі",
-      "ЧуСюэ"
+      "ЧуСюэ",
+      "Асто"
     ],
     "image": "images/zheltyi-mekonopsis.webp",
     "points": null,
@@ -385,8 +385,8 @@
       "Avelora"
     ],
     "image": "images/zhemchuzhnaya-magnoliya.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 25,
+    "upgradedPoints": 50,
     "active": true
   },
   {
@@ -425,7 +425,6 @@
       "Е Сю",
       "Мэй Мэй",
       "ЧуСюэ",
-      "ЖунНиу",
       "Avelora"
     ],
     "image": "images/zvezdy-v-lepestkah.webp",
@@ -450,8 +449,8 @@
     "players": [
       "Мэй Мэй",
       "Кім Чі",
-      "ЖунНиу",
-      "Avelora"
+      "Avelora",
+      "Світлана"
     ],
     "image": "images/zolotistyi-osmantus.webp",
     "points": 21,
@@ -497,7 +496,6 @@
       "Кім Чі",
       "ЧуСюэ",
       "ХваЧен",
-      "ЖунНиу",
       "Чжао Лу Сы"
     ],
     "image": "images/lazurnaya-enotera.webp",
@@ -512,7 +510,9 @@
       "Тінка",
       "Е Сю",
       "Мэй Мэй",
-      "Ким Мари"
+      "Ким Мари",
+      "Кім Чі",
+      "СонНян"
     ],
     "image": "images/lazurnyi-koral.webp",
     "points": 23,
@@ -601,8 +601,8 @@
       "СонНян"
     ],
     "image": "images/medovo-zheltaya-gloksiniya.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -650,7 +650,8 @@
       "Vika",
       "ЛуНина",
       "ЛиИюнь",
-      "Avelora"
+      "Avelora",
+      "Світлана"
     ],
     "image": "images/ognennaya-orhideya.webp",
     "points": null,
@@ -711,10 +712,10 @@
       "Асто",
       "Чжао Лу Сы",
       "СонНян",
-      "ЖунНиу",
       "ЛиИюнь",
       "МЕЛКИЙ",
-      "Avelora"
+      "Avelora",
+      "Світлана"
     ],
     "image": "images/padub-mutovchatyi.webp",
     "points": null,
@@ -781,7 +782,8 @@
     "name": "Пурпурный ирис",
     "category": "purple",
     "players": [
-      "Тінка"
+      "Тінка",
+      "Мэй Мэй"
     ],
     "image": "images/purpurnyi-iris.webp",
     "points": 23,
@@ -832,7 +834,6 @@
       "Кім Чі",
       "Divora",
       "ЧуСюэ",
-      "ЖунНиу",
       "Avelora"
     ],
     "image": "images/roza-shampan.webp",
@@ -850,9 +851,9 @@
       "АняРам",
       "ЧуСюэ",
       "Тінка",
-      "ЖунНиу",
       "Avelora",
-      "ХваЧен"
+      "ХваЧен",
+      "Світлана"
     ],
     "image": "images/rozovaya-enotera.webp",
     "points": 21,
@@ -887,9 +888,9 @@
       "Асто",
       "Чжао Лу Сы",
       "СонНян",
-      "ЖунНиу",
       "МЕЛКИЙ",
-      "Avelora"
+      "Avelora",
+      "Світлана"
     ],
     "image": "images/rozovyi-gibiskus.webp",
     "points": null,
@@ -921,8 +922,8 @@
       "Avelora"
     ],
     "image": "images/rozovyi-lileinik.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -948,11 +949,12 @@
       "Мэй Мэй",
       "Кім Чі",
       "ЧуСюэ",
-      "Avelora"
+      "Avelora",
+      "Vika"
     ],
     "image": "images/rozovyi-spatifillum.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 21,
+    "upgradedPoints": 42,
     "active": true
   },
   {
@@ -962,8 +964,8 @@
       "Тінка"
     ],
     "image": "images/rozovyi-himonant.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 25,
+    "upgradedPoints": 50,
     "active": true
   },
   {
@@ -1028,7 +1030,8 @@
       "СонНян",
       "ЛиИюнь",
       "Avelora",
-      "ЧуСюэ"
+      "ЧуСюэ",
+      "Світлана"
     ],
     "image": "images/snezhnyi-lotos-v-tumane.webp",
     "points": null,
@@ -1078,8 +1081,8 @@
       "Мэй Мэй"
     ],
     "image": "images/tush-podnebesnoi.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 28,
+    "upgradedPoints": 56,
     "active": true
   },
   {
@@ -1104,8 +1107,8 @@
       "Тінка"
     ],
     "image": "images/fioletovaya-kitaiskaya-gvozdika.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -1171,7 +1174,8 @@
     "name": "Цветок памяти",
     "category": "red",
     "players": [
-      "Тінка"
+      "Тінка",
+      "Кім Чі"
     ],
     "image": "images/tsvetok-pamyati.webp",
     "points": null,
@@ -1242,8 +1246,8 @@
       "Avelora"
     ],
     "image": "images/tsikas-lazurnyi.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -1257,7 +1261,6 @@
       "Кім Чі",
       "Асто",
       "СонНян",
-      "ЖунНиу",
       "ЧуСюэ"
     ],
     "image": "images/chernilnaya-sosna.webp",
@@ -1272,8 +1275,7 @@
       "Divora",
       "Мэй Мэй",
       "ЧуСюэ",
-      "Кім Чі",
-      "ЖунНиу"
+      "Кім Чі"
     ],
     "image": "images/zolotisto-belyi-iris.webp",
     "points": 21,
@@ -1347,7 +1349,7 @@
       "Тінка",
       "ЧуСюэ",
       "Чжао Лу Сы",
-      "ЖунНиу"
+      "Світлана"
     ],
     "image": "images/temnyi-georgin.webp",
     "points": null,
@@ -1362,8 +1364,8 @@
       "Мэй Мэй"
     ],
     "image": "images/rozovaya-verbena.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -1375,8 +1377,8 @@
       "СонНян"
     ],
     "image": "images/lilovyi-lileinik.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -1386,8 +1388,8 @@
       "Тінка"
     ],
     "image": "images/sirenevyi-mekonopsis.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -1421,8 +1423,8 @@
       "Е Сю"
     ],
     "image": "images/temno-rozovaya-gloksiniya.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -1489,8 +1491,8 @@
       "Тінка",
       "ЛиИюнь",
       "ЧуСюэ",
-      "ЖунНиу",
-      "Avelora"
+      "Avelora",
+      "Світлана"
     ],
     "image": "images/belyi-tsimbidium.webp",
     "points": null,
@@ -1504,8 +1506,7 @@
       "Тінка",
       "ЧуСюэ",
       "Чжао Лу Сы",
-      "СонНян",
-      "ЖунНиу"
+      "СонНян"
     ],
     "image": "images/zheltyi-ontsidium.webp",
     "points": null,
@@ -1625,7 +1626,10 @@
     "name": "Фиолетовый антирринум",
     "category": "purple",
     "players": [
-      "Avelora"
+      "Avelora",
+      "СонНян",
+      "ЧуСюэ",
+      "ЛуНина"
     ],
     "image": "images/fioletovyi-antirrinum.webp",
     "points": null,
@@ -1640,8 +1644,8 @@
       "Ким Мари"
     ],
     "image": "images/sinii-delfinium.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -1668,8 +1672,8 @@
       "ЧуСюэ"
     ],
     "image": "images/fioletovaya-gloksiniya.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -1712,7 +1716,7 @@
     "category": "purple",
     "players": [
       "Тінка",
-      "ЖунНиу"
+      "Асто"
     ],
     "image": "images/zheltaya-leviziya.webp",
     "points": 21,
@@ -1740,7 +1744,8 @@
       "Кім Чі",
       "АняРам",
       "Асто",
-      "ЛиИюнь"
+      "ЛиИюнь",
+      "СонНян"
     ],
     "image": "images/oblachnyi-pion-shaoyao.webp",
     "points": 21,
@@ -1801,8 +1806,8 @@
       "ЛиИюнь"
     ],
     "image": "images/fioletovyi-delfinium.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 21,
+    "upgradedPoints": 42,
     "active": true
   },
   {
@@ -1814,8 +1819,8 @@
       "Кім Чі"
     ],
     "image": "images/ryba-fonarik-u-ruchya.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 28,
+    "upgradedPoints": 56,
     "active": true
   },
   {
@@ -1824,8 +1829,7 @@
     "players": [
       "Ким Мари",
       "Е Сю",
-      "Асто",
-      "ЖунНиу"
+      "Асто"
     ],
     "image": "images/puntsovaya-aktiniya.webp",
     "points": null,
@@ -1854,8 +1858,8 @@
       "Е Сю"
     ],
     "image": "images/purpurnaya-bauhiniya.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -1888,7 +1892,6 @@
     "category": "purple",
     "players": [
       "Мэй Мэй",
-      "ЖунНиу",
       "СонНян"
     ],
     "image": "images/temno-krasnyi-moroznik.webp",
@@ -1954,8 +1957,8 @@
       "ЧуСюэ"
     ],
     "image": "images/zheltaya-roza-benks.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 23,
+    "upgradedPoints": 46,
     "active": true
   },
   {
@@ -2001,11 +2004,12 @@
     "players": [
       "ЛуНина",
       "ХваЧен",
-      "Чжао Лу Сы"
+      "Чжао Лу Сы",
+      "ЧуСюэ"
     ],
     "image": "images/rozovyi-shipovnik.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 21,
+    "upgradedPoints": 42,
     "active": true
   },
   {
@@ -2044,7 +2048,9 @@
       "АняРам",
       "Vika",
       "Divora",
-      "Avelora"
+      "Avelora",
+      "Мэй Мэй",
+      "Асто"
     ],
     "image": "images/sirenevaya-babochka.webp",
     "points": null,
@@ -2097,7 +2103,8 @@
     "players": [
       "СонНян",
       "Avelora",
-      "Мэй Мэй"
+      "Мэй Мэй",
+      "Divora"
     ],
     "image": "images/sirenevyi-gladiolus.webp",
     "points": 21,
@@ -2111,6 +2118,28 @@
       "Тінка"
     ],
     "image": "images/alaya-proteya.webp",
+    "points": 25,
+    "upgradedPoints": 50,
+    "active": true
+  },
+  {
+    "name": "Золотая протея",
+    "category": "gold",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/zolotaya-proteya.webp",
+    "points": 25,
+    "upgradedPoints": 50,
+    "active": true
+  },
+  {
+    "name": "Лазурная протея",
+    "category": "gold",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/lazurnaya-proteya.webp",
     "points": 25,
     "upgradedPoints": 50,
     "active": true
@@ -2162,8 +2191,8 @@
       "Avelora"
     ],
     "image": "images/ledyanoe-lakomstvo.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 25,
+    "upgradedPoints": 50,
     "active": true
   },
   {
@@ -2175,15 +2204,30 @@
       "ЛиИюнь"
     ],
     "image": "images/zolotaya-ladya.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 25,
+    "upgradedPoints": 50,
+    "active": true
+  },
+  {
+    "name": "Розовая ладья",
+    "category": "gold",
+    "players": [
+      "СонНян",
+      "Тінка",
+      "Е Сю"
+    ],
+    "image": "images/rozovaya-ladya.webp",
+    "points": 25,
+    "upgradedPoints": 50,
     "active": true
   },
   {
     "name": "Цветущий переулок",
     "category": "red",
     "players": [
-      "Тінка"
+      "Тінка",
+      "ЛуНина",
+      "СонНян"
     ],
     "image": "images/tsvetushchiy-pereulok.webp",
     "points": 28,
@@ -2198,8 +2242,8 @@
       "Тінка"
     ],
     "image": "images/ruchey-v-tsvetu.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 28,
+    "upgradedPoints": 56,
     "active": true
   },
   {
@@ -2277,9 +2321,21 @@
       "Vika",
       "МЕЛКИЙ",
       "Avelora",
-      "ЧуСюэ"
+      "ЧуСюэ",
+      "Тінка"
     ],
     "image": "images/alyi-travyanistyi-gibiskus.webp",
+    "points": 23,
+    "upgradedPoints": 46,
+    "active": true
+  },
+  {
+    "name": "Оранжевая глориоза",
+    "category": "purple",
+    "players": [
+      "Тінка"
+    ],
+    "image": "images/oranzhevaya-glorioza.webp",
     "points": 23,
     "upgradedPoints": 46,
     "active": true
