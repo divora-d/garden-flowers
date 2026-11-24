@@ -285,8 +285,8 @@
       "Кім Чі"
     ],
     "image": "images/golubye-volny.webp",
-    "points": null,
-    "upgradedPoints": null,
+    "points": 25,
+    "upgradedPoints": 50,
     "active": true
   },
   {
