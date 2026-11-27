@@ -19,7 +19,8 @@
       "Е Сю",
       "Мэй Мэй",
       "ЧуСюэ",
-      "ЛуНина"
+      "ЛуНина",
+      "ЮньСяои"
     ],
     "image": "images/alaya-nemesia.webp",
     "points": 23,
@@ -116,7 +117,8 @@
       "СонНян",
       "Світлана",
       "Vika",
-      "ЧуСюэ"
+      "ЧуСюэ",
+      "МЕЛКИЙ"
     ],
     "image": "images/belaya-leviziya.webp",
     "points": 21,
@@ -139,7 +141,8 @@
     "category": "gold",
     "players": [
       "Тінка",
-      "Ким Мари"
+      "Ким Мари",
+      "ЮньСяои"
     ],
     "image": "images/beloe-chudo.webp",
     "points": 25,
@@ -152,7 +155,8 @@
     "players": [
       "Тінка",
       "Ким Мари",
-      "Vika"
+      "Vika",
+      "ЮньСяои"
     ],
     "image": "images/belyi-klematis.webp",
     "points": 23,
@@ -180,7 +184,8 @@
       "ХваЧен",
       "Світлана",
       "ЛуНина",
-      "Avelora"
+      "Avelora",
+      "НаТаЛи"
     ],
     "image": "images/brunfelsiya.webp",
     "points": 21,
@@ -193,7 +198,8 @@
     "players": [
       "Тінка",
       "Ким Мари",
-      "Кім Чі"
+      "Кім Чі",
+      "ЮньСяои"
     ],
     "image": "images/oranzhevaya-verbena.webp",
     "points": 23,
@@ -214,7 +220,8 @@
       "СонНян",
       "ЛиИюнь",
       "Vika",
-      "Avelora"
+      "Avelora",
+      "ЮньСяои"
     ],
     "image": "images/vifleemskaya-zvezda.webp",
     "points": 23,
@@ -254,7 +261,8 @@
       "ЛиИюнь",
       "МЕЛКИЙ",
       "Avelora",
-      "Світлана"
+      "Світлана",
+      "ЮньСяои"
     ],
     "image": "images/golubaya-petuniya.webp",
     "points": 21,
@@ -282,7 +290,8 @@
     "category": "gold",
     "players": [
       "Тінка",
-      "Кім Чі"
+      "Кім Чі",
+      "ЮньСяои"
     ],
     "image": "images/golubye-volny.webp",
     "points": 25,
@@ -341,7 +350,8 @@
       "ЛуНина",
       "Тінка",
       "СонНян",
-      "Avelora"
+      "Avelora",
+      "ЮньСяои"
     ],
     "image": "images/zheltyi-antirrinum.webp",
     "points": 23,
@@ -450,7 +460,8 @@
       "Мэй Мэй",
       "Кім Чі",
       "Avelora",
-      "Світлана"
+      "Світлана",
+      "ЮньСяои"
     ],
     "image": "images/zolotistyi-osmantus.webp",
     "points": 21,
@@ -466,7 +477,8 @@
       "Е Сю",
       "Мэй Мэй",
       "СонНян",
-      "ЛиИюнь"
+      "ЛиИюнь",
+      "ЮньСяои"
     ],
     "image": "images/izumrudnyi-lileinik.webp",
     "points": 23,
@@ -512,7 +524,8 @@
       "Мэй Мэй",
       "Ким Мари",
       "Кім Чі",
-      "СонНян"
+      "СонНян",
+      "ЮньСяои"
     ],
     "image": "images/lazurnyi-koral.webp",
     "points": 23,
@@ -554,7 +567,8 @@
       "ЧуСюэ",
       "СонНян",
       "ЛиИюнь",
-      "Avelora"
+      "Avelora",
+      "ЮньСяои"
     ],
     "image": "images/likoris.webp",
     "points": 23,
@@ -598,7 +612,8 @@
       "Ким Мари",
       "Е Сю",
       "Кім Чі",
-      "СонНян"
+      "СонНян",
+      "ЮньСяои"
     ],
     "image": "images/medovo-zheltaya-gloksiniya.webp",
     "points": 23,
@@ -620,7 +635,8 @@
     "name": "Облачно-белый клеродендрум",
     "category": "purple",
     "players": [
-      "Е Сю"
+      "Е Сю",
+      "Тінка"
     ],
     "image": "images/oblachno-belyi-klerodendrum.webp",
     "points": null,
@@ -651,7 +667,8 @@
       "ЛуНина",
       "ЛиИюнь",
       "Avelora",
-      "Світлана"
+      "Світлана",
+      "НаТаЛи"
     ],
     "image": "images/ognennaya-orhideya.webp",
     "points": 21,
@@ -664,7 +681,8 @@
     "players": [
       "Тінка",
       "Е Сю",
-      "СонНян"
+      "СонНян",
+      "ЮньСяои"
     ],
     "image": "images/oranzhevaya-hrizantema-pion.webp",
     "points": 25,
@@ -687,7 +705,8 @@
     "category": "purple",
     "players": [
       "Тінка",
-      "Ким Мари"
+      "Ким Мари",
+      "МЕЛКИЙ"
     ],
     "image": "images/oranzhevyi-mak.webp",
     "points": 23,
@@ -715,7 +734,8 @@
       "ЛиИюнь",
       "МЕЛКИЙ",
       "Avelora",
-      "Світлана"
+      "Світлана",
+      "ЮньСяои"
     ],
     "image": "images/padub-mutovchatyi.webp",
     "points": 21,
@@ -749,7 +769,8 @@
       "Асто",
       "СонНян",
       "Avelora",
-      "ЧуСюэ"
+      "ЧуСюэ",
+      "ЮньСяои"
     ],
     "image": "images/pion-rozovyi-kvarts.webp",
     "points": 25,
@@ -794,7 +815,8 @@
     "name": "Роз. гибискус в ларце",
     "category": "gold",
     "players": [
-      "Тінка"
+      "Тінка",
+      "ЮньСяои"
     ],
     "image": "images/roz-gibiskus-v-lartse.webp",
     "points": 25,
@@ -891,7 +913,8 @@
       "СонНян",
       "МЕЛКИЙ",
       "Avelora",
-      "Світлана"
+      "Світлана",
+      "ЮньСяои"
     ],
     "image": "images/rozovyi-gibiskus.webp",
     "points": 21,
@@ -932,7 +955,8 @@
     "category": "purple",
     "players": [
       "Тінка",
-      "Чжао Лу Сы"
+      "Чжао Лу Сы",
+      "ЛиИюнь"
     ],
     "image": "images/rozovyi-pion-shaoyao.webp",
     "points": 23,
@@ -1011,7 +1035,8 @@
     "players": [
       "Тінка",
       "Ким Мари",
-      "ЧуСюэ"
+      "ЧуСюэ",
+      "ЮньСяои"
     ],
     "image": "images/sirenevyi-mak.webp",
     "points": 23,
@@ -1032,7 +1057,9 @@
       "ЛиИюнь",
       "Avelora",
       "ЧуСюэ",
-      "Світлана"
+      "Світлана",
+      "ЮньСяои",
+      "Тінка"
     ],
     "image": "images/snezhnyi-lotos-v-tumane.webp",
     "points": 25,
@@ -1045,7 +1072,8 @@
     "players": [
       "Тінка",
       "ЛиИюнь",
-      "Чжао Лу Сы"
+      "Чжао Лу Сы",
+      "ЮньСяои"
     ],
     "image": "images/sumerechnaya-akvilegiya.webp",
     "points": 23,
@@ -1093,7 +1121,8 @@
       "Тінка",
       "Ким Мари",
       "Е Сю",
-      "СонНян"
+      "СонНян",
+      "ЮньСяои"
     ],
     "image": "images/farforovaya-hrizantema-pion.webp",
     "points": 25,
@@ -1164,7 +1193,8 @@
       "СонНян",
       "ЛиИюнь",
       "МЕЛКИЙ",
-      "Avelora"
+      "Avelora",
+      "ЮньСяои"
     ],
     "image": "images/hlopkovyi-mishka.webp",
     "points": 23,
@@ -1209,11 +1239,12 @@
     "active": true
   },
   {
-    "name": "Цветущие звезды",
+    "name": "Цветущие звёзды",
     "category": "purple",
     "players": [
       "Тінка",
-      "Ким Мари"
+      "Ким Мари",
+      "ЮньСяои"
     ],
     "image": "images/tsvetushchie-zvezdy.webp",
     "points": null,
@@ -1244,7 +1275,8 @@
       "Мэй Мэй",
       "Кім Чі",
       "ЧуСюэ",
-      "Avelora"
+      "Avelora",
+      "ЮньСяои"
     ],
     "image": "images/tsikas-lazurnyi.webp",
     "points": 23,
@@ -1262,7 +1294,8 @@
       "Кім Чі",
       "Асто",
       "СонНян",
-      "ЧуСюэ"
+      "ЧуСюэ",
+      "ЮньСяои"
     ],
     "image": "images/chernilnaya-sosna.webp",
     "points": null,
@@ -1617,7 +1650,8 @@
       "Мэй Мэй",
       "ЧуСюэ",
       "СонНян",
-      "Avelora"
+      "Avelora",
+      "ЮньСяои"
     ],
     "image": "images/rozovyi-antirrinum.webp",
     "points": 23,
@@ -1682,7 +1716,8 @@
     "name": "Жёлтый шиповник",
     "category": "purple",
     "players": [
-      "Тінка"
+      "Тінка",
+      "ЮньСяои"
     ],
     "image": "images/zheltyi-shipovnik.webp",
     "points": 23,
@@ -1777,7 +1812,8 @@
       "Ким Мари",
       "Асто",
       "Акерке",
-      "ХваЧен"
+      "ХваЧен",
+      "Тінка"
     ],
     "image": "images/oranzhevyi-korall.webp",
     "points": 21,
@@ -1908,7 +1944,8 @@
       "Мэй Мэй",
       "АняРам",
       "ЧуСюэ",
-      "Кім Чі"
+      "Кім Чі",
+      "ЛуНина"
     ],
     "image": "images/zheltyi-moroznik.webp",
     "points": 21,
@@ -1980,7 +2017,9 @@
     "category": "purple",
     "players": [
       "Divora",
-      "МяоШу"
+      "МяоШу",
+      "Кім Чі",
+      "ЮньСяои"
     ],
     "image": "images/zheltaya-enotera.webp",
     "points": 21,
@@ -2007,7 +2046,8 @@
       "ЛуНина",
       "ХваЧен",
       "Чжао Лу Сы",
-      "ЧуСюэ"
+      "ЧуСюэ",
+      "ЮньСяои"
     ],
     "image": "images/rozovyi-shipovnik.webp",
     "points": 21,
@@ -2018,7 +2058,8 @@
     "name": "Чайная роза на закате",
     "category": "gold",
     "players": [
-      "Тінка"
+      "Тінка",
+      "ЮньСяои"
     ],
     "image": "images/chaynaya-roza-na-zakate.webp",
     "points": 25,
@@ -2066,7 +2107,8 @@
       "Тінка",
       "СонНян",
       "ЛуНина",
-      "Avelora"
+      "Avelora",
+      "ЮньСяои"
     ],
     "image": "images/rozovyi-travyanistyi-gibiskus.webp",
     "points": 23,
@@ -2216,7 +2258,8 @@
     "players": [
       "СонНян",
       "Тінка",
-      "Е Сю"
+      "Е Сю",
+      "ЮньСяои"
     ],
     "image": "images/rozovaya-ladya.webp",
     "points": 25,
@@ -2286,7 +2329,8 @@
     "category": "purple",
     "players": [
       "Divora",
-      "ЛуНина"
+      "ЛуНина",
+      "Avelora"
     ],
     "image": "images/belyi-gladiolus.webp",
     "points": 21,
@@ -2324,7 +2368,8 @@
       "МЕЛКИЙ",
       "Avelora",
       "ЧуСюэ",
-      "Тінка"
+      "Тінка",
+      "ЮньСяои"
     ],
     "image": "images/alyi-travyanistyi-gibiskus.webp",
     "points": 23,
@@ -2340,6 +2385,17 @@
     "image": "images/oranzhevaya-glorioza.webp",
     "points": 23,
     "upgradedPoints": 46,
+    "active": true
+  },
+  {
+    "name": "Снежная дафна",
+    "category": "purple",
+    "players": [
+      "ЮньСяои"
+    ],
+    "image": "images/snezhnaya-dafna.webp",
+    "points": null,
+    "upgradedPoints": null,
     "active": true
   }
 ]
